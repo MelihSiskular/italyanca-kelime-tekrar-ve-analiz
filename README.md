@@ -14,11 +14,11 @@ Bu proje de o listeyi pasif biçimde tekrar okumak yerine, anlamdan kelimeyi bul
 
 ### Kelime veri seti
 
-![](docs/images/Ekran Resmi 2026-08-06 01.05.05.png)
+![](docs/images/tablo.png)
 
 ### Terminal tabanlı quiz
 
-![](docs/images/Ekran Resmi 2026-08-06 00.10.21.png)
+![](docs/images/terminal.png)
 
 ### Öğrenme analizleri
 
