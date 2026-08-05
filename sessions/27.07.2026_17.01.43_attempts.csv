@@ -1,0 +1,37 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260727_170143;2026-07-27T17:01:49;1;sempre;Sempre;Türkçe;Türkçesi;Her zaman;sempre;True;correct;1.0;;1;True;A colazione bevo sempre il caffe
+20260727_170143;2026-07-27T17:02:09;2;citta;Citta;İngilizce;İngilizcesi;City;citta;True;correct;1.0;;1;True;Roma e’ una città molto bella
+20260727_170143;2026-07-27T17:02:16;3;corpo;Corpo;Türkçe;Türkçesi;Vücut / Beden;corpo;True;correct;1.0;;1;True;E’ importante prendersi cura del proprio corpo
+20260727_170143;2026-07-27T17:02:19;4;a volte;A volte;Türkçe;Türkçesi;Bazen;a volte;True;correct;1.0;;1;True;A volte viaggio con la mia ragazza nel fine settimana
+20260727_170143;2026-07-27T17:02:25;5;aspetto;Aspetto;Türkçe;Türkçesi;Görünüş / Özellik;aspetto;True;correct;1.0;;1;True;L’aspetto più importante e’ parlare senza paura
+20260727_170143;2026-07-27T17:02:28;6;corpo;Corpo;İngilizce;İngilizcesi;Body;corpo;True;correct;1.0;;1;True;E’ importante prendersi cura del proprio corpo
+20260727_170143;2026-07-27T17:02:31;7;citta;Citta;Türkçe;Türkçesi;Şehir;citta;True;correct;1.0;;1;True;Roma e’ una città molto bella
+20260727_170143;2026-07-27T17:02:34;8;casa;Casa;İngilizce;İngilizcesi;House / Home;casa;True;correct;1.0;;1;True;Oggi rimango a casa
+20260727_170143;2026-07-27T17:02:39;9;colazione;Colazione;Türkçe;Türkçesi;Kahvaltı;colazione;True;correct;1.0;;1;True;Faccio colazione ogni mattina alle otto
+20260727_170143;2026-07-27T17:02:43;10;momento;Momento;İngilizce;İngilizcesi;Moment;momento;True;correct;1.0;;1;True;In questo momento sto studiando italiano
+20260727_170143;2026-07-27T17:02:47;11;parola;Parola;Türkçe;Türkçesi;Kelime / Söz;parola;True;correct;1.0;;1;True;Non conosco questa parola italiana
+20260727_170143;2026-07-27T17:02:50;12;sempre;Sempre;İngilizce;İngilizcesi;Always;sempre;True;correct;1.0;;1;True;A colazione bevo sempre il caffe
+20260727_170143;2026-07-27T17:02:54;13;cibo;Cibo;Türkçe;Türkçesi;Yiyecek / Yemek;cibo;True;correct;1.0;;1;True;Mi piace molto il cibo italiano
+20260727_170143;2026-07-27T17:02:58;14;cibo;Cibo;İngilizce;İngilizcesi;Food;cibo;True;correct;1.0;;1;True;Mi piace molto il cibo italiano
+20260727_170143;2026-07-27T17:03:08;15;a volte;A volte;İngilizce;İngilizcesi;Sometimes;a volte;True;correct;1.0;;1;True;A volte viaggio con la mia ragazza nel fine settimana
+20260727_170143;2026-07-27T17:03:11;16;colazione;Colazione;İngilizce;İngilizcesi;Breakfast;colazione;True;correct;1.0;;1;True;Faccio colazione ogni mattina alle otto
+20260727_170143;2026-07-27T17:03:19;17;cenare;Cenare;Türkçe;Türkçesi;Akşam yemeği yemek;cenare;True;correct;1.0;;1;True;Di solito ceno con la mia famiglia
+20260727_170143;2026-07-27T17:05:37;18;casa;Casa;Türkçe;Türkçesi;Ev / Yuva;casa;True;correct;1.0;;1;True;Oggi rimango a casa
+20260727_170143;2026-07-27T17:05:41;19;mai;Mai;Türkçe;Türkçesi;Asla / Hiç;mai;True;correct;1.0;;1;True;Non bevo mai il caffe di notte
+20260727_170143;2026-07-27T17:05:46;20;uomo;Uomo;İngilizce;İngilizcesi;Man;uomo;True;correct;1.0;;1;True;Quell’uomo lavora in un ristorante
+20260727_170143;2026-07-27T17:05:49;21;donna;Donna;Türkçe;Türkçesi;Kadın;donna;True;correct;1.0;;1;True;Quella donna e’ molto gentile
+20260727_170143;2026-07-27T17:05:52;22;donna;Donna;İngilizce;İngilizcesi;Woman;donna;True;correct;1.0;;1;True;Quella donna e’ molto gentile
+20260727_170143;2026-07-27T17:05:55;23;occhio;Occhio;İngilizce;İngilizcesi;Eye;occhio;True;correct;1.0;;1;True;Ho qualcosa nell’occhio
+20260727_170143;2026-07-27T17:06:02;24;momento;Momento;Türkçe;Türkçesi;An / Zaman;momento;True;correct;1.0;;1;True;In questo momento sto studiando italiano
+20260727_170143;2026-07-27T17:06:06;25;spesso;Spesso;İngilizce;İngilizcesi;Often;spesso;True;correct;1.0;;1;True;Vado spesso in piscina
+20260727_170143;2026-07-27T17:06:09;26;mai;Mai;İngilizce;İngilizcesi;Never / Ever;mai;True;correct;1.0;;1;True;Non bevo mai il caffe di notte
+20260727_170143;2026-07-27T17:06:13;27;lingua;Lingua;Türkçe;Türkçesi;Dil;lingua;True;correct;1.0;;1;True;L’italiano e’ una lingua molto bella
+20260727_170143;2026-07-27T17:06:17;28;di solito;Di solito;Türkçe;Türkçesi;Genlelde;di solito;True;correct;1.0;;1;True;Di solito ceno verso le 19.30
+20260727_170143;2026-07-27T17:06:26;29;occhio;Occhio;Türkçe;Türkçesi;Göz;occhio;True;correct;1.0;;1;True;Ho qualcosa nell’occhio
+20260727_170143;2026-07-27T17:06:32;30;aspetto;Aspetto;İngilizce;İngilizcesi;Appearance / Aspect;aspetto;True;correct;1.0;;1;True;L’aspetto più importante e’ parlare senza paura
+20260727_170143;2026-07-27T17:06:37;31;uomo;Uomo;Türkçe;Türkçesi;Erkek / Adam;uomo;True;correct;1.0;;1;True;Quell’uomo lavora in un ristorante
+20260727_170143;2026-07-27T17:06:41;32;parola;Parola;İngilizce;İngilizcesi;Word;parola;True;correct;1.0;;1;True;Non conosco questa parola italiana
+20260727_170143;2026-07-27T17:06:46;33;cenare;Cenare;İngilizce;İngilizcesi;To have dinner;cenare;True;correct;1.0;;1;True;Di solito ceno con la mia famiglia
+20260727_170143;2026-07-27T17:06:50;34;lingua;Lingua;İngilizce;İngilizcesi;Language / Tongue;lingua;True;correct;1.0;;1;True;L’italiano e’ una lingua molto bella
+20260727_170143;2026-07-27T17:06:56;35;di solito;Di solito;İngilizce;İngilizcesi;Usually;di solito;True;correct;1.0;;1;True;Di solito ceno verso le 19.30
+20260727_170143;2026-07-27T17:07:05;36;spesso;Spesso;Türkçe;Türkçesi;Sıklıkla;spesso;True;correct;1.0;;1;True;Vado spesso in piscina

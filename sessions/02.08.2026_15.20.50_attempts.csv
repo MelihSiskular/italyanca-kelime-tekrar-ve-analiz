@@ -1,0 +1,34 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260802_152050;2026-08-02T15:20:54;1;sperare;Sperare;İngilizce;İngilizcesi;To hope;sperare;True;correct;1.0;;1;True;Spero di andare in Italia l’anno prossimo
+20260802_152050;2026-08-02T15:20:58;2;quanto;Quanto;Türkçe;Türkçesi;Ne kadar / Kaç tane;quanto;True;correct;1.0;;1;True;Quanto costa questo corso di italiano
+20260802_152050;2026-08-02T15:21:02;3;scorsa;Scorsa;Türkçe;Türkçesi;Geçen / Önceki;scorsa;True;correct;1.0;;1;True;L’estate scorsa sono andato in Cappadocia
+20260802_152050;2026-08-02T15:21:11;4;quindi;Quindi;İngilizce;İngilizcesi;So / Therefore / Then;quindi;True;correct;1.0;;1;True;Sono stanco, quindi rimango a casa
+20260802_152050;2026-08-02T15:21:17;5;ovviamente;Ovviamente;İngilizce;İngilizcesi;Obviously / Of course;ovviamente;True;correct;1.0;;1;True;Ovviamente voglio visitare Roma quando andrò in Italia
+20260802_152050;2026-08-02T15:21:21;6;fino;Fino;Türkçe;Türkçesi;-e kadar / -a kadar;fino;True;correct;1.0;;1;True;Lavoro fine alle sei e poi torno a casa
+20260802_152050;2026-08-02T15:21:25;7;semplice;Semplice;İngilizce;İngilizcesi;Simple / Easy;semplice;True;correct;1.0;;1;True;Questa frase e’ semplice da capire
+20260802_152050;2026-08-02T15:21:31;8;puoi farmi;Puoi farmi;İngilizce;İngilizcesi;Can you make/do … for me;puoi farmi;True;correct;1.0;;1;True;Puoi farmi un favore per favore
+20260802_152050;2026-08-02T15:23:16;9;dire;Dire;Türkçe;Türkçesi;Söylemek / Demek;dire;True;correct;1.0;;1;True;Puoi dire questa frase piu lentamente
+20260802_152050;2026-08-02T15:23:20;10;scorsa;Scorsa;İngilizce;İngilizcesi;Last / Previous;scorsa;True;correct;1.0;;1;True;L’estate scorsa sono andato in Cappadocia
+20260802_152050;2026-08-02T15:23:25;11;anche se;Anche se;Türkçe;Türkçesi;Olsa bile / Her ne kadar;anche se;True;correct;1.0;;1;True;Anche se sono stanco, studio italiano e inglese
+20260802_152050;2026-08-02T15:23:31;12;spiegare;Spiegare;Türkçe;Türkçesi;Açıklamak;spiegare;True;correct;1.0;;1;True;Puoi spiegare il significato di questa parola
+20260802_152050;2026-08-02T15:23:33;13;dai;Dai;İngilizce;İngilizcesi;Come on / Go on;dai;True;correct;1.0;;1;True;Dai, andiamo al mare
+20260802_152050;2026-08-02T15:25:13;14;aggiungere;Aggiungere;İngilizce;İngilizcesi;To add;aggiungere;True;correct;1.0;;1;True;Vorrei aggiungere una nuova parola alla mia lista
+20260802_152050;2026-08-02T15:25:16;15;dire;Dire;İngilizce;İngilizcesi;To say / To tell;dire;True;correct;1.0;;1;True;Puoi dire questa frase piu lentamente
+20260802_152050;2026-08-02T15:25:23;16;anche se;Anche se;İngilizce;İngilizcesi;Even if / Although;anche se;True;correct;1.0;;1;True;Anche se sono stanco, studio italiano e inglese
+20260802_152050;2026-08-02T15:25:29;17;puoi farmi;Puoi farmi;Türkçe;Türkçesi;Bana … yapabilir misin;puoi farmi;True;correct;1.0;;1;True;Puoi farmi un favore per favore
+20260802_152050;2026-08-02T15:25:33;18;fino;Fino;İngilizce;İngilizcesi;Until / Up to / As far as;fino;True;correct;1.0;;1;True;Lavoro fine alle sei e poi torno a casa
+20260802_152050;2026-08-02T15:25:36;19;semplice;Semplice;Türkçe;Türkçesi;Basit / Sade;semplice;True;correct;1.0;;1;True;Questa frase e’ semplice da capire
+20260802_152050;2026-08-02T15:27:14;20;dai;Dai;Türkçe;Türkçesi;Haydi / Hadi ama;dai;True;correct;1.0;;1;True;Dai, andiamo al mare
+20260802_152050;2026-08-02T15:27:21;21;sperare;Sperare;Türkçe;Türkçesi;Ummak / Ümit etmek;sperare;True;correct;1.0;;1;True;Spero di andare in Italia l’anno prossimo
+20260802_152050;2026-08-02T15:27:26;22;ovviamente;Ovviamente;Türkçe;Türkçesi;Açıkçası / Elbette;ovviamente;True;correct;1.0;;1;True;Ovviamente voglio visitare Roma quando andrò in Italia
+20260802_152050;2026-08-02T15:27:29;23;sensazione;Sensazione;İngilizce;İngilizcesi;Feeling / Sensation;sentire;False;unknown_or_semantic_error;0.588;;1;False;Ho una bella sensazione quando parlo italiano
+20260802_152050;2026-08-02T15:27:38;24;sensazione;Sensazione;Türkçe;Türkçesi;His / Duygu / İzlenim;sensazione;True;correct;1.0;;1;True;Ho una bella sensazione quando parlo italiano
+20260802_152050;2026-08-02T15:27:50;25;non riesco;Non riesco;Türkçe;Türkçesi;Başaramıyorum / Yapamıyorum;non capire;False;unknown_or_semantic_error;0.5;;1;False;Non riesco a capire questa frase
+20260802_152050;2026-08-02T15:27:54;26;non riesco;Non riesco;İngilizce;İngilizcesi;I can’t manage / Im unable;;False;no_recall;0.0;;1;False;Non riesco a capire questa frase
+20260802_152050;2026-08-02T15:27:58;27;quanto;Quanto;İngilizce;İngilizcesi;How much / How many / As much as;quanto;True;correct;1.0;;1;True;Quanto costa questo corso di italiano
+20260802_152050;2026-08-02T15:28:03;28;non riesco;Non riesco;Türkçe;Türkçesi;Başaramıyorum / Yapamıyorum;non riesco;True;correct;1.0;;2;False;Non riesco a capire questa frase
+20260802_152050;2026-08-02T15:28:09;29;aggiungere;Aggiungere;Türkçe;Türkçesi;Eklemek;aggiungere;True;correct;1.0;;1;True;Vorrei aggiungere una nuova parola alla mia lista
+20260802_152050;2026-08-02T15:28:15;30;sensazione;Sensazione;İngilizce;İngilizcesi;Feeling / Sensation;sensazione;True;correct;1.0;;2;False;Ho una bella sensazione quando parlo italiano
+20260802_152050;2026-08-02T15:28:20;31;non riesco;Non riesco;İngilizce;İngilizcesi;I can’t manage / Im unable;non riesco;True;correct;1.0;;2;False;Non riesco a capire questa frase
+20260802_152050;2026-08-02T15:28:27;32;quindi;Quindi;Türkçe;Türkçesi;Bu yüzden / dolayısıyla / O halde;quindi;True;correct;1.0;;1;True;Sono stanco, quindi rimango a casa
+20260802_152050;2026-08-02T15:28:31;33;spiegare;Spiegare;İngilizce;İngilizcesi;To explain;spiegare;True;correct;1.0;;1;True;Puoi spiegare il significato di questa parola

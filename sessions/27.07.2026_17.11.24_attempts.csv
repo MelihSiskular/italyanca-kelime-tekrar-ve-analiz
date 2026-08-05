@@ -1,0 +1,43 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260727_171124;2026-07-27T17:11:30;1;trovare;Trovare;İngilizce;İngilizcesi;To find;trovare;True;correct;1.0;;1;True;Non riesco a trovare le mie chiavi
+20260727_171124;2026-07-27T17:11:34;2;mano;Mano;İngilizce;İngilizcesi;Hand;mano;True;correct;1.0;;1;True;Con la chitarra in mano
+20260727_171124;2026-07-27T17:11:41;3;sogno;Sogno;Türkçe;Türkçesi;Hayal;sogno;True;correct;1.0;;1;True;Il mio sogno e vivere in Italia
+20260727_171124;2026-07-27T17:11:45;4;assenza;Assenza;İngilizce;İngilizcesi;Absence;assenza;True;correct;1.0;;1;True;Durante la mia assenza, nessuno ha chiamato
+20260727_171124;2026-07-27T17:11:48;5;corso;Corso;Türkçe;Türkçesi;Kurs / Ders;corso;True;correct;1.0;;1;True;Sto seguendo un corso di italiano online
+20260727_171124;2026-07-27T17:11:51;6;cortese;Cortese;Türkçe;Türkçesi;Kibar/Nazik;cortese;True;correct;1.0;;1;True;Il cameriere e molto cortese
+20260727_171124;2026-07-27T17:11:56;7;benvenuto;Benvenuto;Türkçe;Türkçesi;Hoş geldin;benvenuto;True;correct;1.0;;1;True;Benvenuto a casa nostra
+20260727_171124;2026-07-27T17:12:01;8;bisogno;Bisogno;İngilizce;İngilizcesi;Need;bisogno;True;correct;1.0;;1;True;Ho bisogno di più tempo per studiare
+20260727_171124;2026-07-27T17:12:04;9;corso;Corso;İngilizce;İngilizcesi;Course / Class;corso;True;correct;1.0;;1;True;Sto seguendo un corso di italiano online
+20260727_171124;2026-07-27T17:12:09;10;pensare;Pensare;İngilizce;İngilizcesi;To think;pensare;True;correct;1.0;;1;True;Penso spesso al mio futuro
+20260727_171124;2026-07-27T17:12:14;11;benvenuto;Benvenuto;İngilizce;İngilizcesi;Welcome;benvenuto;True;correct;1.0;;1;True;Benvenuto a casa nostra
+20260727_171124;2026-07-27T17:12:17;12;altro;Altro;İngilizce;İngilizcesi;Other / Another / More;altro;True;correct;1.0;;1;True;Vorrei un altro caffe, per favore
+20260727_171124;2026-07-27T17:12:20;13;strada;Strada;İngilizce;İngilizcesi;Road / Street / Way;strada;True;correct;1.0;;1;True;Questa strada porta alla stazione
+20260727_171124;2026-07-27T17:12:26;14;durante;Durante;Türkçe;Türkçesi;Sırasında / Boyunca;durante;True;correct;1.0;;1;True;Durante il viaggio ho fatto molte fotografie
+20260727_171124;2026-07-27T17:12:37;15;presente;Presente;Türkçe;Türkçesi;Mevcut / Şimdiki / Hazır bulunan;presente;True;correct;1.0;;1;True;Oggi tutti gli studenti sono presenti
+20260727_171124;2026-07-27T17:13:00;16;altro;Altro;Türkçe;Türkçesi;Başka / Diğer / Bir tane daha;altro;True;correct;1.0;;1;True;Vorrei un altro caffe, per favore
+20260727_171124;2026-07-27T17:13:07;17;bisogno;Bisogno;Türkçe;Türkçesi;İhtiyaç;bisogno;True;correct;1.0;;1;True;Ho bisogno di più tempo per studiare
+20260727_171124;2026-07-27T17:13:29;18;difficile;Difficile;İngilizce;İngilizcesi;Difficult/Hard;difficile;True;correct;1.0;;1;True;Parlare italiano non e difficile
+20260727_171124;2026-07-27T17:13:33;19;difficile;Difficile;Türkçe;Türkçesi;Zor;difficile;True;correct;1.0;;1;True;Parlare italiano non e difficile
+20260727_171124;2026-07-27T17:13:37;20;cortese;Cortese;İngilizce;İngilizcesi;Polite/ Courteous;cortese;True;correct;1.0;;1;True;Il cameriere e molto cortese
+20260727_171124;2026-07-27T17:13:41;21;indicare;Indicare;İngilizce;İngilizcesi;To indicate / To point out;indicare;True;correct;1.0;;1;True;Puoi indicarmi la strada per la stazione
+20260727_171124;2026-07-27T17:13:45;22;strada;Strada;Türkçe;Türkçesi;Yol / Cadde / Sokak;strada;True;correct;1.0;;1;True;Questa strada porta alla stazione
+20260727_171124;2026-07-27T17:13:51;23;portare;Portare;İngilizce;İngilizcesi;To bring / To carry / To take;portare;True;correct;1.0;;1;True;Porto sempre la macchina fotografica con me
+20260727_171124;2026-07-27T17:14:00;24;sbagliato;Sbagliato;Türkçe;Türkçesi;Yanlış / Hatalı;sbagliato;True;correct;1.0;;1;True;Ho scritto il numero sbagliato
+20260727_171124;2026-07-27T17:14:08;25;azione;Azione;İngilizce;İngilizcesi;Action;azione;True;correct;1.0;;1;True;Ti piacciono i film d’azione
+20260727_171124;2026-07-27T17:14:11;26;assenza;Assenza;Türkçe;Türkçesi;Yokluk / Bulunmama;assenza;True;correct;1.0;;1;True;Durante la mia assenza, nessuno ha chiamato
+20260727_171124;2026-07-27T17:14:19;27;trovare;Trovare;Türkçe;Türkçesi;Bulmak;trovare;True;correct;1.0;;1;True;Non riesco a trovare le mie chiavi
+20260727_171124;2026-07-27T17:14:24;28;indicare;Indicare;Türkçe;Türkçesi;Göstermek / Belirtmek;indicare;True;correct;1.0;;1;True;Puoi indicarmi la strada per la stazione
+20260727_171124;2026-07-27T17:14:27;29;dormire;Dormire;Türkçe;Türkçesi;Uyumak;dormire;True;correct;1.0;;1;True;Di solito dormo otto ore ogni note
+20260727_171124;2026-07-27T17:14:36;30;ricevere;Ricevere;Türkçe;Türkçesi;Almak/ Teslim almak;ricevere;True;correct;1.0;;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260727_171124;2026-07-27T17:14:39;31;pensare;Pensare;Türkçe;Türkçesi;Düşünmek;pensare;True;correct;1.0;;1;True;Penso spesso al mio futuro
+20260727_171124;2026-07-27T17:14:46;32;azione;Azione;Türkçe;Türkçesi;Aksiyon;azione;True;correct;1.0;;1;True;Ti piacciono i film d’azione
+20260727_171124;2026-07-27T17:14:50;33;portare;Portare;Türkçe;Türkçesi;Getirmek / Taşımak / Götürmek;portare;True;correct;1.0;;1;True;Porto sempre la macchina fotografica con me
+20260727_171124;2026-07-27T17:14:55;34;dormire;Dormire;İngilizce;İngilizcesi;To sleep;dormire;True;correct;1.0;;1;True;Di solito dormo otto ore ogni note
+20260727_171124;2026-07-27T17:14:59;35;durante;Durante;İngilizce;İngilizcesi;During;durante;True;correct;1.0;;1;True;Durante il viaggio ho fatto molte fotografie
+20260727_171124;2026-07-27T17:15:02;36;mano;Mano;Türkçe;Türkçesi;El;mano;True;correct;1.0;;1;True;Con la chitarra in mano
+20260727_171124;2026-07-27T17:15:20;37;tenere;Tenere;İngilizce;İngilizcesi;To Hold / To Keep;tenere;True;correct;1.0;;1;True;Puoi tenere la mia borsa
+20260727_171124;2026-07-27T17:15:24;38;sogno;Sogno;İngilizce;İngilizcesi;Dream;sogno;True;correct;1.0;;1;True;Il mio sogno e vivere in Italia
+20260727_171124;2026-07-27T17:15:29;39;ricevere;Ricevere;İngilizce;İngilizcesi;To recieve;ricevere;True;correct;1.0;;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260727_171124;2026-07-27T17:15:33;40;presente;Presente;İngilizce;İngilizcesi;Present / Current;presente;True;correct;1.0;;1;True;Oggi tutti gli studenti sono presenti
+20260727_171124;2026-07-27T17:15:39;41;sbagliato;Sbagliato;İngilizce;İngilizcesi;Wrong/Incorrect;sbagliato;True;correct;1.0;;1;True;Ho scritto il numero sbagliato
+20260727_171124;2026-07-27T17:15:46;42;tenere;Tenere;Türkçe;Türkçesi;Tutmak / korumak;tenere;True;correct;1.0;;1;True;Puoi tenere la mia borsa

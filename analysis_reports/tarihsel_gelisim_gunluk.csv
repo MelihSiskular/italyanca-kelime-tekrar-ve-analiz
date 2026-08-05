@@ -1,0 +1,9 @@
+﻿date;session_count;total_unique_words;cumulative_unique_words_seen;duration_seconds;duration_minutes;total_language_tasks;total_attempts;correct_answers;wrong_answers;first_try_correct_tasks;words_with_mistakes;spelling_errors;confusion_errors;wrong_word_form_errors;no_recall_errors;unknown_semantic_errors;accuracy_percent;first_try_accuracy_percent;accuracy_change_vs_previous_day
+2026-07-20;3;57;57;1465;24.419999999999998;212;156;140;16;127;12;11;1;1;2;1;89.74;59.91;
+2026-07-21;1;57;57;798;13.3;114;119;114;5;110;3;5;0;0;0;0;95.8;96.49;6.06
+2026-07-22;5;57;77;1504;25.07;210;232;210;22;194;15;13;3;0;3;3;90.52;92.38;-5.28
+2026-07-26;2;20;95;1071;17.85;76;87;76;11;67;8;8;0;0;0;3;87.36;88.16;-3.16
+2026-07-27;5;21;96;1550;25.83;194;203;194;9;185;8;5;0;0;3;1;95.57;95.36;8.21
+2026-07-28;3;21;112;700;11.67;110;113;110;3;107;3;2;0;0;0;1;97.35;97.27;1.78
+2026-07-29;1;19;115;327;5.45;38;44;38;6;34;4;2;0;0;2;2;86.36;89.47;-10.99
+2026-08-02;8;20;133;3258;54.3;262;281;262;19;244;15;7;1;0;4;7;93.24;93.13;6.88

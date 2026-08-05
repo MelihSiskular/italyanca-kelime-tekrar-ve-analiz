@@ -1,0 +1,120 @@
+﻿session_id;answered_at;attempt_order;italian_word;clue_language;clue_column;clue;user_answer;is_correct;task_attempt_number;is_first_try_correct;example
+20260721_050552;2026-07-21T05:05:59;1;Potere;İngilizce;İngilizcesi;Can/ to be able to;potere;True;1;True;Posso parlare un podi italiano
+20260721_050552;2026-07-21T05:06:03;2;Vorrei;İngilizce;İngilizcesi;I’d like;vorrei;True;1;True;Vorrei un biglietto per roma
+20260721_050552;2026-07-21T05:06:07;3;Volere;İngilizce;İngilizcesi;To want;volere;True;1;True;Voglio imparare l’italiano
+20260721_050552;2026-07-21T05:06:11;4;Tempo;İngilizce;İngilizcesi;Time;tempo;True;1;True;Non ho molto tempo per studiare oggi
+20260721_050552;2026-07-21T05:06:16;5;Settimana;Türkçe;Türkçesi;Hafta;settimana;True;1;True;Questa settimana studio italiano ogni girono
+20260721_050552;2026-07-21T05:06:19;6;Domani;Türkçe;Türkçesi;Yarın;domani;True;1;True;Ti passo a prendere domani alle 19.00
+20260721_050552;2026-07-21T05:06:23;7;Fare;İngilizce;İngilizcesi;To do/ to make;fare;True;1;True;Nel tempo libero faccio fotografie
+20260721_050552;2026-07-21T05:06:27;8;Strada;Türkçe;Türkçesi;Yol / Cadde / Sokak;strada;True;1;True;Questa strada porta alla stazione
+20260721_050552;2026-07-21T05:06:35;9;A Domani;İngilizce;İngilizcesi;See you tomorrow;A Domani;True;1;True;E stato bello vederti. A domani!
+20260721_050552;2026-07-21T05:06:42;10;Strada;İngilizce;İngilizcesi;Road / Street / Way;strada;True;1;True;Questa strada porta alla stazione
+20260721_050552;2026-07-21T05:06:47;11;Altro;İngilizce;İngilizcesi;Other / Another / More;altro;True;1;True;Vorrei un altro caffe, per favore
+20260721_050552;2026-07-21T05:06:50;12;Avere;İngilizce;İngilizcesi;To have;avere;True;1;True;Ho una macchina fotografica
+20260721_050552;2026-07-21T05:06:56;13;Fine Settimana;Türkçe;Türkçesi;Hafta sonu;fine settimana;True;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260721_050552;2026-07-21T05:07:00;14;Cortese;İngilizce;İngilizcesi;Polite/ Courteous;cortese;True;1;True;Il cameriere e molto cortese
+20260721_050552;2026-07-21T05:07:10;15;Tra/Fra due anni;Türkçe;Türkçesi;İki yıl sonra;Tra/Fra anni fa;False;1;False;Tra due anni voglio vivere in Italia
+20260721_050552;2026-07-21T05:07:28;16;Settimana;İngilizce;İngilizcesi;Week;settimana;True;1;True;Questa settimana studio italiano ogni girono
+20260721_050552;2026-07-21T05:07:32;17;Sapere;Türkçe;Türkçesi;Bilmek;sapere;True;1;True;Non so parlare bene italiano
+20260721_050552;2026-07-21T05:07:37;18;Presente;İngilizce;İngilizcesi;Present / Current;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260721_050552;2026-07-21T05:07:41;19;Cambiare;Türkçe;Türkçesi;Değiştirmek / Değişmek;cambiare;True;1;True;Voglio cambiare la mia vita
+20260721_050552;2026-07-21T05:07:46;20;Due anni fa;Türkçe;Türkçesi;İki yıl önce;due anni fa;True;1;True;Ho iniziato a studiare italiano due anni fa
+20260721_050552;2026-07-21T05:07:52;21;Corso;Türkçe;Türkçesi;Kurs / Ders;corso;True;1;True;Sto seguendo un corso di italiano online
+20260721_050552;2026-07-21T05:07:56;22;Anno;Türkçe;Türkçesi;Yıl;anno;True;1;True;Quest’anno voglio andare in Italia
+20260721_050552;2026-07-21T05:08:02;23;Senza;İngilizce;İngilizcesi;Without;senza;True;1;True;Non posso vivere senza la mia famiglia
+20260721_050552;2026-07-21T05:08:08;24;Prima;Türkçe;Türkçesi;Önce/Daha önce;prima;True;1;True;Prima di dormire, studio italiano
+20260721_050552;2026-07-21T05:08:11;25;Facile;İngilizce;İngilizcesi;Easy;facile;True;1;True;Questo esercizio e’ facile
+20260721_050552;2026-07-21T05:08:16;26;Dopo;Türkçe;Türkçesi;Sonra;dopo;True;1;True;Dopo il lavoro, torno a casa
+20260721_050552;2026-07-21T05:08:21;27;Dovere;İngilizce;İngilizcesi;Must/ to have to;dovere;True;1;True;Devo studiare oggi
+20260721_050552;2026-07-21T05:08:24;28;Domani;İngilizce;İngilizcesi;Tomorrow;domani;True;1;True;Ti passo a prendere domani alle 19.00
+20260721_050552;2026-07-21T05:08:27;29;Adesso;İngilizce;İngilizcesi;Now;adesso;True;1;True;Adesso non posso parlare
+20260721_050552;2026-07-21T05:08:31;30;Essere;İngilizce;İngilizcesi;To be;essere;True;1;True;Sono uno studente
+20260721_050552;2026-07-21T05:08:35;31;Essere;Türkçe;Türkçesi;Olmak;essere;True;1;True;Sono uno studente
+20260721_050552;2026-07-21T05:08:40;32;Altro;Türkçe;Türkçesi;Başka / Diğer / Bir tane daha;altro;True;1;True;Vorrei un altro caffe, per favore
+20260721_050552;2026-07-21T05:08:44;33;Giorno;İngilizce;İngilizcesi;Day;giorno;True;1;True;Studio italiano ogni giorno
+20260721_050552;2026-07-21T05:08:48;34;Diverso;Türkçe;Türkçesi;Farklı/Çeşitli;diverso;True;1;True;
+20260721_050552;2026-07-21T05:08:54;35;Benvenuto;İngilizce;İngilizcesi;Welcome;benvenuto;True;1;True;Benvenuto a casa nostra
+20260721_050552;2026-07-21T05:09:02;36;Difficile;İngilizce;İngilizcesi;Difficult/Hard;difficile;True;1;True;Parlare italiano non e difficile
+20260721_050552;2026-07-21T05:09:06;37;Vorrei;Türkçe;Türkçesi;İsterdim / istiyorum;vorrei;True;1;True;Vorrei un biglietto per roma
+20260721_050552;2026-07-21T05:09:13;38;Difficile;Türkçe;Türkçesi;Zor;difficile;True;1;True;Parlare italiano non e difficile
+20260721_050552;2026-07-21T05:09:17;39;Cortese;Türkçe;Türkçesi;Kibar/Nazik;cortese;True;1;True;Il cameriere e molto cortese
+20260721_050552;2026-07-21T05:09:21;40;Ieri;Türkçe;Türkçesi;Dün;ieri;True;1;True;Ieri e stata una bella giornata
+20260721_050552;2026-07-21T05:09:25;41;Giorno;Türkçe;Türkçesi;Gün;giorno;True;1;True;Studio italiano ogni giorno
+20260721_050552;2026-07-21T05:09:29;42;Tempo;Türkçe;Türkçesi;Zaman;tempo;True;1;True;Non ho molto tempo per studiare oggi
+20260721_050552;2026-07-21T05:09:39;43;Mezzo di trasporto;İngilizce;İngilizcesi;Transportation;mezzo di trasporta;False;1;False;Il treno e’ il mio mezzo di trasporto preferito
+20260721_050552;2026-07-21T05:09:53;44;A Domani;Türkçe;Türkçesi;Yarın Görüşürüz;A Domani;True;1;True;E stato bello vederti. A domani!
+20260721_050552;2026-07-21T05:09:58;45;Prima;İngilizce;İngilizcesi;Before/Earlier;prima;True;1;True;Prima di dormire, studio italiano
+20260721_050552;2026-07-21T05:10:02;46;Fare;Türkçe;Türkçesi;Yapmak;fare;True;1;True;Nel tempo libero faccio fotografie
+20260721_050552;2026-07-21T05:10:05;47;Dopo;İngilizce;İngilizcesi;After/Later;dopo;True;1;True;Dopo il lavoro, torno a casa
+20260721_050552;2026-07-21T05:10:12;48;Oggi;Türkçe;Türkçesi;Bugün;oggi;True;1;True;Lo faro entro oggi
+20260721_050552;2026-07-21T05:10:42;49;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Fra/Tra due anni;False;1;False;Tra due anni voglio vivere in Italia
+20260721_050552;2026-07-21T05:10:57;50;Portare;Türkçe;Türkçesi;Getirmek / Taşımak / Götürmek;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260721_050552;2026-07-21T05:11:02;51;Ricevere;İngilizce;İngilizcesi;To recieve;ricevere;True;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260721_050552;2026-07-21T05:11:08;52;Assenza;İngilizce;İngilizcesi;Absence;assenza;True;1;True;Durante la mia assenza, nessuno ha chiamato
+20260721_050552;2026-07-21T05:11:11;53;Senza;Türkçe;Türkçesi;-Sız/ -siz;senza;True;1;True;Non posso vivere senza la mia famiglia
+20260721_050552;2026-07-21T05:11:16;54;Bisogno;Türkçe;Türkçesi;İhtiyaç;bisogno;True;1;True;Ho bisogno di più tempo per studiare
+20260721_050552;2026-07-21T05:11:20;55;Trovare;İngilizce;İngilizcesi;To find;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260721_050552;2026-07-21T05:11:31;56;Qualcosa;Türkçe;Türkçesi;Bir şey;qualcosa;True;1;True;Vorrei mangiare qualcosa
+20260721_050552;2026-07-21T05:11:34;57;Vita;Türkçe;Türkçesi;Hayat;vita;True;1;True;Ha avuto una vita difficile, tra Mattie e problemi familiari
+20260721_050552;2026-07-21T05:11:38;58;Ieri;İngilizce;İngilizcesi;Yesterday;ieri;True;1;True;Ieri e stata una bella giornata
+20260721_050552;2026-07-21T05:11:44;59;Vivere;İngilizce;İngilizcesi;To live;vivere;True;1;True;Suo fratello adesso vive a Londra
+20260721_050552;2026-07-21T05:11:50;60;Indicare;Türkçe;Türkçesi;Göstermek / Belirtmek;indicare;True;1;True;Puoi indicarmi la strada per la stazione
+20260721_050552;2026-07-21T05:11:54;61;Ciao;İngilizce;İngilizcesi;hi;ciao;True;1;True;
+20260721_050552;2026-07-21T05:11:57;62;Rendere;İngilizce;İngilizcesi;To make/To render;rendere;True;1;True;Voglio rendere felice la mia ragazza
+20260721_050552;2026-07-21T05:12:22;63;Dovere;Türkçe;Türkçesi;Zorunda olmak;dovere;True;1;True;Devo studiare oggi
+20260721_050552;2026-07-21T05:12:54;64;Diverso;İngilizce;İngilizcesi;Different/various;diverso;True;1;True;
+20260721_050552;2026-07-21T05:12:57;65;Mese;Türkçe;Türkçesi;Ay;mese;True;1;True;Questo mese studio molto italiano
+20260721_050552;2026-07-21T05:13:21;66;Presente;Türkçe;Türkçesi;Mevcut / Şimdiki / Hazır bulunan;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260721_050552;2026-07-21T05:13:25;67;Corso;İngilizce;İngilizcesi;Course / Class;corso;True;1;True;Sto seguendo un corso di italiano online
+20260721_050552;2026-07-21T05:13:32;68;Mezzo di trasporto;Türkçe;Türkçesi;Ulaşım Aracı;mezzo di trasporto;True;1;True;Il treno e’ il mio mezzo di trasporto preferito
+20260721_050552;2026-07-21T05:13:41;69;Sbagliato;Türkçe;Türkçesi;Yanlış / Hatalı;sbagliato;True;1;True;Ho scritto il numero sbagliato
+20260721_050552;2026-07-21T05:13:45;70;Ciao;Türkçe;Türkçesi;Merhaba;ciao;True;1;True;
+20260721_050552;2026-07-21T05:13:52;71;Sogno;Türkçe;Türkçesi;Hayal;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260721_050552;2026-07-21T05:13:58;72;Oggi;İngilizce;İngilizcesi;Today;oggi;True;1;True;Lo faro entro oggi
+20260721_050552;2026-07-21T05:14:03;73;Ricevere;Türkçe;Türkçesi;Almak/ Teslim almak;ricevere;True;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260721_050552;2026-07-21T05:14:06;74;Sapere;İngilizce;İngilizcesi;To know;sapere;True;1;True;Non so parlare bene italiano
+20260721_050552;2026-07-21T05:14:15;75;Iniziare;Türkçe;Türkçesi;Başlamak;iniziare;True;1;True;Voglio iniziare a studiare italiano oggi
+20260721_050552;2026-07-21T05:14:22;76;Fine Settimana;İngilizce;İngilizcesi;Weekend;fine settimana;True;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260721_050552;2026-07-21T05:14:28;77;Vivere;Türkçe;Türkçesi;Yaşamak;vivere;True;1;True;Suo fratello adesso vive a Londra
+20260721_050552;2026-07-21T05:14:44;78;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Fra/Tra due anni;False;2;False;Tra due anni voglio vivere in Italia
+20260721_050552;2026-07-21T05:14:52;79;Andare;Türkçe;Türkçesi;Gitmek;andare;True;1;True;Voglio andare in Italia
+20260721_050552;2026-07-21T05:14:58;80;Felice;İngilizce;İngilizcesi;Happy;felice;True;1;True;Sono felice quando viaggio con la mia ragazza
+20260721_050552;2026-07-21T05:15:08;81;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Tra/Fra due anni;True;3;False;Tra due anni voglio vivere in Italia
+20260721_050552;2026-07-21T05:15:13;82;Azione;İngilizce;İngilizcesi;Action;azione;True;1;True;Ti piacciono i film d’azione
+20260721_050552;2026-07-21T05:15:17;83;Qualcosa;İngilizce;İngilizcesi;Something;qualcosa;True;1;True;Vorrei mangiare qualcosa
+20260721_050552;2026-07-21T05:15:21;84;Prendere;Türkçe;Türkçesi;Almak/Binmek;prendere;True;1;True;Prendo l’autobus ogni mattina
+20260721_050552;2026-07-21T05:15:26;85;Adesso;Türkçe;Türkçesi;Şimdi;adesso;True;1;True;Adesso non posso parlare
+20260721_050552;2026-07-21T05:15:29;86;Felice;Türkçe;Türkçesi;Mutlu;felice;True;1;True;Sono felice quando viaggio con la mia ragazza
+20260721_050552;2026-07-21T05:15:34;87;Rendere;Türkçe;Türkçesi;Hale getirmek;rendere;True;1;True;Voglio rendere felice la mia ragazza
+20260721_050552;2026-07-21T05:15:39;88;Durante;Türkçe;Türkçesi;Sırasında / Boyunca;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260721_050552;2026-07-21T05:15:42;89;Parlare;Türkçe;Türkçesi;Konuşmak;parlare;True;1;True;Parlo italiano con i miei amici
+20260721_050552;2026-07-21T05:15:44;90;Durante;İngilizce;İngilizcesi;During;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260721_050552;2026-07-21T05:15:47;91;Andare;İngilizce;İngilizcesi;To go;andare;True;1;True;Voglio andare in Italia
+20260721_050552;2026-07-21T05:15:54;92;Assenza;Türkçe;Türkçesi;Yokluk / Bulunmama;assenza;True;1;True;Durante la mia assenza, nessuno ha chiamato
+20260721_050552;2026-07-21T05:15:58;93;Dormire;İngilizce;İngilizcesi;To sleep;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260721_050552;2026-07-21T05:16:02;94;Pensare;İngilizce;İngilizcesi;To think;pensare;True;1;True;Penso spesso al mio futuro
+20260721_050552;2026-07-21T05:16:05;95;Avere;Türkçe;Türkçesi;Sahip olmak;avere;True;1;True;Ho una macchina fotografica
+20260721_050552;2026-07-21T05:16:11;96;Benvenuto;Türkçe;Türkçesi;Hoş geldin;benvenuto;True;1;True;Benvenuto a casa nostra
+20260721_050552;2026-07-21T05:16:15;97;Volere;Türkçe;Türkçesi;İstemek;volere;True;1;True;Voglio imparare l’italiano
+20260721_050552;2026-07-21T05:16:21;98;Prendere;İngilizce;İngilizcesi;To take/to get;prendere;True;1;True;Prendo l’autobus ogni mattina
+20260721_050552;2026-07-21T05:16:25;99;Sogno;İngilizce;İngilizcesi;Dream;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260721_050552;2026-07-21T05:16:32;100;Portare;İngilizce;İngilizcesi;To bring / To carry / To take;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260721_050552;2026-07-21T05:16:38;101;Mezzo di trasporto;İngilizce;İngilizcesi;Transportation;mezzo di trasporto;True;2;False;Il treno e’ il mio mezzo di trasporto preferito
+20260721_050552;2026-07-21T05:16:41;102;Parlare;İngilizce;İngilizcesi;To speak;parlare;True;1;True;Parlo italiano con i miei amici
+20260721_050552;2026-07-21T05:16:49;103;Tra/Fra due anni;Türkçe;Türkçesi;İki yıl sonra;Tra/Fra due anni;True;2;False;Tra due anni voglio vivere in Italia
+20260721_050552;2026-07-21T05:16:54;104;Trovare;Türkçe;Türkçesi;Bulmak;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260721_050552;2026-07-21T05:16:58;105;Iniziare;İngilizce;İngilizcesi;To start/to begin;iniziare;True;1;True;Voglio iniziare a studiare italiano oggi
+20260721_050552;2026-07-21T05:17:02;106;Mese;İngilizce;İngilizcesi;Month;mese;True;1;True;Questo mese studio molto italiano
+20260721_050552;2026-07-21T05:17:16;107;Indicare;İngilizce;İngilizcesi;To indicate / To point out;indicare;True;1;True;Puoi indicarmi la strada per la stazione
+20260721_050552;2026-07-21T05:17:20;108;Azione;Türkçe;Türkçesi;Aksiyon;azione;True;1;True;Ti piacciono i film d’azione
+20260721_050552;2026-07-21T05:17:28;109;Due anni fa;İngilizce;İngilizcesi;Two years ago;due anni fa;True;1;True;Ho iniziato a studiare italiano due anni fa
+20260721_050552;2026-07-21T05:18:17;110;Facile;Türkçe;Türkçesi;Kolay;facile;True;1;True;Questo esercizio e’ facile
+20260721_050552;2026-07-21T05:18:21;111;Potere;Türkçe;Türkçesi;Yapabilmek;potere;True;1;True;Posso parlare un podi italiano
+20260721_050552;2026-07-21T05:18:25;112;Cambiare;İngilizce;İngilizcesi;To change;cambiare;True;1;True;Voglio cambiare la mia vita
+20260721_050552;2026-07-21T05:18:38;113;Bisogno;İngilizce;İngilizcesi;Need;bisogno;True;1;True;Ho bisogno di più tempo per studiare
+20260721_050552;2026-07-21T05:18:48;114;Anno;İngilizce;İngilizcesi;Year;anno;True;1;True;Quest’anno voglio andare in Italia
+20260721_050552;2026-07-21T05:18:54;115;Sbagliato;İngilizce;İngilizcesi;Wrong/Incorrect;sbagliato;True;1;True;Ho scritto il numero sbagliato
+20260721_050552;2026-07-21T05:18:57;116;Vita;İngilizce;İngilizcesi;Life;vita;True;1;True;Ha avuto una vita difficile, tra Mattie e problemi familiari
+20260721_050552;2026-07-21T05:19:01;117;Pensare;Türkçe;Türkçesi;Düşünmek;pensaree;False;1;False;Penso spesso al mio futuro
+20260721_050552;2026-07-21T05:19:05;118;Dormire;Türkçe;Türkçesi;Uyumak;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260721_050552;2026-07-21T05:19:10;119;Pensare;Türkçe;Türkçesi;Düşünmek;pensare;True;2;False;Penso spesso al mio futuro

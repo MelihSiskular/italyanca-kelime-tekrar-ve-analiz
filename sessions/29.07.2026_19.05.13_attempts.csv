@@ -1,0 +1,45 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260729_190513;2026-07-29T19:05:18;1;martedi;Martedi;Türkçe;Türkçesi;Salı;martedi;True;correct;1.0;;1;True;Martedì lavoro fino alle sei
+20260729_190513;2026-07-29T19:05:22;2;mercoledi;Mercoledi;İngilizce;İngilizcesi;Wednesday;mercoledi;True;correct;1.0;;1;True;Mercoledì studio italiano con un amico
+20260729_190513;2026-07-29T19:05:25;3;sentire;Sentire;Türkçe;Türkçesi;Duymak / Hissetmek;sentire;True;correct;1.0;;1;True;Non riesco a sentire bene la tua voce
+20260729_190513;2026-07-29T19:05:29;4;esempio;Esempio;Türkçe;Türkçesi;Örnek;esempio;True;correct;1.0;;1;True;Puoi farmi un esempio per favore
+20260729_190513;2026-07-29T19:05:37;5;il primo;Il primo;İngilizce;İngilizcesi;The first / First course;Il primo;True;correct;1.0;;1;True;Questo e’ il mio primo giorno di corso
+20260729_190513;2026-07-29T19:05:41;6;sentire;Sentire;İngilizce;İngilizcesi;To hear / To feel;sentire;True;correct;1.0;;1;True;Non riesco a sentire bene la tua voce
+20260729_190513;2026-07-29T19:05:47;7;martedi;Martedi;İngilizce;İngilizcesi;Tuesday;martedi;True;correct;1.0;;1;True;Martedì lavoro fino alle sei
+20260729_190513;2026-07-29T19:05:51;8;domenica;Domenica;Türkçe;Türkçesi;Pazar;domenica;True;correct;1.0;;1;True;Domenica rimango a casa con la mia famiglia
+20260729_190513;2026-07-29T19:05:55;9;domenica;Domenica;İngilizce;İngilizcesi;Pazar;domenica;True;correct;1.0;;1;True;Domenica rimango a casa con la mia famiglia
+20260729_190513;2026-07-29T19:05:58;10;lunedi;Lunedi;Türkçe;Türkçesi;Pazartesi;lunedi;True;correct;1.0;;1;True;Lunedì inizio u nuovo corso di italiano
+20260729_190513;2026-07-29T19:06:26;11;ancora;Ancora;İngilizce;İngilizcesi;Still / Again / More;ancora;True;correct;1.0;;1;True;Sto ancora studiando italiano
+20260729_190513;2026-07-29T19:06:30;12;fa caldo;Fa caldo;Türkçe;Türkçesi;Hava sıcak;fa caldo;True;correct;1.0;;1;True;Oggi fa molto caldo, quindi bevo molta acqua
+20260729_190513;2026-07-29T19:07:55;13;significato;Significato;İngilizce;İngilizcesi;Meaning;sensazione;False;unknown_or_semantic_error;0.381;;1;False;Non conosco il significato di questa parola
+20260729_190513;2026-07-29T19:08:02;14;lunedi;Lunedi;İngilizce;İngilizcesi;Monday;lunedi;True;correct;1.0;;1;True;Lunedì inizio u nuovo corso di italiano
+20260729_190513;2026-07-29T19:08:06;15;luogo;Luogo;Türkçe;Türkçesi;Yer / mekan;luogo;True;correct;1.0;;1;True;Questo e’ un luogo molto tranquillo
+20260729_190513;2026-07-29T19:08:11;16;venerdi;Venerdi;İngilizce;İngilizcesi;Friday;venerdi;True;correct;1.0;;1;True;Venerdì sera ceno con la mia ragazza
+20260729_190513;2026-07-29T19:08:15;17;estata;Estata;Türkçe;Türkçesi;Yaz;estata;True;correct;1.0;;1;True;In estate mi piace andare al mare
+20260729_190513;2026-07-29T19:08:19;18;frase;Frase;İngilizce;İngilizcesi;Sentence / Phrase;frase;True;correct;1.0;;1;True;Provo a scrivere una frase in italiano
+20260729_190513;2026-07-29T19:08:23;19;esempio;Esempio;İngilizce;İngilizcesi;Example;esempio;True;correct;1.0;;1;True;Puoi farmi un esempio per favore
+20260729_190513;2026-07-29T19:08:26;20;luogo;Luogo;İngilizce;İngilizcesi;Place / Location;luogo;True;correct;1.0;;1;True;Questo e’ un luogo molto tranquillo
+20260729_190513;2026-07-29T19:08:31;21;mercoledi;Mercoledi;Türkçe;Türkçesi;Çarşamba;mercoledi;True;correct;1.0;;1;True;Mercoledì studio italiano con un amico
+20260729_190513;2026-07-29T19:08:35;22;giovedi;Giovedi;İngilizce;İngilizcesi;Thursday;giovedi;True;correct;1.0;;1;True;Giovedì voglio andare al cinema
+20260729_190513;2026-07-29T19:08:38;23;venerdi;Venerdi;Türkçe;Türkçesi;Cuma;venerdi;True;correct;1.0;;1;True;Venerdì sera ceno con la mia ragazza
+20260729_190513;2026-07-29T19:08:42;24;giovedi;Giovedi;Türkçe;Türkçesi;Perşembe;giovedi;True;correct;1.0;;1;True;Giovedì voglio andare al cinema
+20260729_190513;2026-07-29T19:08:45;25;insieme;Insieme;İngilizce;İngilizcesi;Together;insieme;True;correct;1.0;;1;True;Studiamo italiano insieme ogni sera
+20260729_190513;2026-07-29T19:08:50;26;anche;Anche;Türkçe;Türkçesi;Ayrıca / De, da / Bile;anche;True;correct;1.0;;1;True;Anche io voglio imparare il russo
+20260729_190513;2026-07-29T19:08:57;27;significato;Significato;İngilizce;İngilizcesi;Meaning;sigificato;False;spelling_error;0.952;;2;False;Non conosco il significato di questa parola
+20260729_190513;2026-07-29T19:09:06;28;sabato;Sabato;Türkçe;Türkçesi;Cumartesi;;False;no_recall;0.0;;1;False;Sabato di solito faccio fotografie
+20260729_190513;2026-07-29T19:09:11;29;fa caldo;Fa caldo;İngilizce;İngilizcesi;It is Hot;;False;no_recall;0.0;;1;False;Oggi fa molto caldo, quindi bevo molta acqua
+20260729_190513;2026-07-29T19:09:21;30;sabato;Sabato;İngilizce;İngilizcesi;Saturday;sabato;True;correct;1.0;;1;True;Sabato di solito faccio fotografie
+20260729_190513;2026-07-29T19:09:26;31;ancora;Ancora;Türkçe;Türkçesi;Hala / Tekrar / Daha;ancora;True;correct;1.0;;1;True;Sto ancora studiando italiano
+20260729_190513;2026-07-29T19:09:32;32;il primo;Il primo;Türkçe;Türkçesi;Birinci / İlk / İlk yemek;Il primo;True;correct;1.0;;1;True;Questo e’ il mio primo giorno di corso
+20260729_190513;2026-07-29T19:09:37;33;anche;Anche;İngilizce;İngilizcesi;Also / Too / Even;anche;True;correct;1.0;;1;True;Anche io voglio imparare il russo
+20260729_190513;2026-07-29T19:09:46;34;rimanere;Rimanere;Türkçe;Türkçesi;Kalmak;stare;False;unknown_or_semantic_error;0.462;;1;False;Questo fine settimana voglio rimanere a casa
+20260729_190513;2026-07-29T19:09:51;35;sabato;Sabato;Türkçe;Türkçesi;Cumartesi;sabato;True;correct;1.0;;2;False;Sabato di solito faccio fotografie
+20260729_190513;2026-07-29T19:09:58;36;rimanere;Rimanere;Türkçe;Türkçesi;Kalmak;rimanare;False;spelling_error;0.875;;2;False;Questo fine settimana voglio rimanere a casa
+20260729_190513;2026-07-29T19:10:04;37;rimanere;Rimanere;İngilizce;İngilizcesi;To stay / To remain;rimanere;True;correct;1.0;;1;True;Questo fine settimana voglio rimanere a casa
+20260729_190513;2026-07-29T19:10:08;38;insieme;Insieme;Türkçe;Türkçesi;Birlikte;insieme;True;correct;1.0;;1;True;Studiamo italiano insieme ogni sera
+20260729_190513;2026-07-29T19:10:14;39;significato;Significato;Türkçe;Türkçesi;Anlam;significato;True;correct;1.0;;1;True;Non conosco il significato di questa parola
+20260729_190513;2026-07-29T19:10:17;40;estata;Estata;İngilizce;İngilizcesi;Summer;estata;True;correct;1.0;;1;True;In estate mi piace andare al mare
+20260729_190513;2026-07-29T19:10:20;41;fa caldo;Fa caldo;İngilizce;İngilizcesi;It is Hot;fa caldo;True;correct;1.0;;2;False;Oggi fa molto caldo, quindi bevo molta acqua
+20260729_190513;2026-07-29T19:10:30;42;rimanere;Rimanere;Türkçe;Türkçesi;Kalmak;rimanere;True;correct;1.0;;3;False;Questo fine settimana voglio rimanere a casa
+20260729_190513;2026-07-29T19:10:37;43;significato;Significato;İngilizce;İngilizcesi;Meaning;significato;True;correct;1.0;;3;False;Non conosco il significato di questa parola
+20260729_190513;2026-07-29T19:10:41;44;frase;Frase;Türkçe;Türkçesi;Cümle / İfade;frase;True;correct;1.0;;1;True;Provo a scrivere una frase in italiano

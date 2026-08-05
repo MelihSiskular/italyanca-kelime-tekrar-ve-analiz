@@ -1,0 +1,49 @@
+﻿session_id;answered_at;attempt_order;italian_word;clue_language;clue_column;clue;user_answer;is_correct;task_attempt_number;is_first_try_correct;example
+20260722_050644;2026-07-22T05:06:51;1;Cosi cosi;Türkçe;Türkçesi;Şöyle böyle / Eh işte;cosi cosi;True;1;True;Come stai? Cosi cosi
+20260722_050644;2026-07-22T05:06:59;2;Dormire;İngilizce;İngilizcesi;To sleep;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260722_050644;2026-07-22T05:07:03;3;Mano;Türkçe;Türkçesi;El;mano;True;1;True;Con la chitarra in mano
+20260722_050644;2026-07-22T05:07:08;4;Chiedere;İngilizce;İngilizcesi;To ask / To request;chiedere;True;1;True;Vorrei chiedere un’informazione
+20260722_050644;2026-07-22T05:07:11;5;Notte;İngilizce;İngilizcesi;Night;notte;True;1;True;Di notte dormo circa otto ore
+20260722_050644;2026-07-22T05:07:15;6;Mi piace;İngilizce;İngilizcesi;I like;vorrei;False;1;False;Mi piace fare fotografie quando viaggiare
+20260722_050644;2026-07-22T05:07:31;7;İl più;Türkçe;Türkçesi;En / En Çok;il piu;False;1;False;Questo esercizio e il più difficile
+20260722_050644;2026-07-22T05:07:45;8;Lavorare;Türkçe;Türkçesi;Çalışmak;;False;1;False;Vorrei lavorare nel settore dei dati
+20260722_050644;2026-07-22T05:07:52;9;Soldi;İngilizce;İngilizcesi;Money;soldi;True;1;True;Non ho abbastanza soldi per viaggiare
+20260722_050644;2026-07-22T05:07:57;10;Mi dispiace;Türkçe;Türkçesi;Üzgünüm;mi dispiace;True;1;True;Mi dispiace, oggi non posso venire
+20260722_050644;2026-07-22T05:08:01;11;Chiedere;Türkçe;Türkçesi;Sormak / Rica etmek;chiedere;True;1;True;Vorrei chiedere un’informazione
+20260722_050644;2026-07-22T05:08:07;12;Generalmente;İngilizce;İngilizcesi;Generally / usually;generalmente;True;1;True;Generalmente studio italiano la sera
+20260722_050644;2026-07-22T05:08:44;13;Allo stesso tempo;İngilizce;İngilizcesi;At the same time;allo stesso tempo;True;1;True;Studio e lavoro allo stesso tempo
+20260722_050644;2026-07-22T05:08:48;14;Solo;İngilizce;İngilizcesi;Only / Alone;solo;True;1;True;Oggi sono solo a casa
+20260722_050644;2026-07-22T05:08:54;15;Mattina;İngilizce;İngilizcesi;Morning;mattina;True;1;True;Ogni mattina bevo un caffe
+20260722_050644;2026-07-22T05:08:58;16;Tenere;İngilizce;İngilizcesi;To Hold / To Keep;tenere;True;1;True;Puoi tenere la mia borsa
+20260722_050644;2026-07-22T05:09:03;17;Mi piace;Türkçe;Türkçesi;Hoşuma gidiyor / seviyorum;mi piace;True;1;True;Mi piace fare fotografie quando viaggiare
+20260722_050644;2026-07-22T05:09:11;18;Tornare;İngilizce;İngilizcesi;To return / to come back;tornare;True;1;True;Torno a casa dopo il lavoro
+20260722_050644;2026-07-22T05:09:16;19;İl più;Türkçe;Türkçesi;En / En Çok;il più;False;2;False;Questo esercizio e il più difficile
+20260722_050644;2026-07-22T05:09:28;20;Mano;İngilizce;İngilizcesi;Hand;;False;1;False;Con la chitarra in mano
+20260722_050644;2026-07-22T05:09:33;21;Lavorare;İngilizce;İngilizcesi;To work;lavorare;True;1;True;Vorrei lavorare nel settore dei dati
+20260722_050644;2026-07-22T05:09:39;22;Dormire;Türkçe;Türkçesi;Uyumak;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260722_050644;2026-07-22T05:09:45;23;Tenere;Türkçe;Türkçesi;Tutmak / korumak;tenere;True;1;True;Puoi tenere la mia borsa
+20260722_050644;2026-07-22T05:09:48;24;Soldi;Türkçe;Türkçesi;Para;soldi;True;1;True;Non ho abbastanza soldi per viaggiare
+20260722_050644;2026-07-22T05:09:58;25;Allo stesso tempo;Türkçe;Türkçesi;Aynı zamanda;allo stesso tempo;True;1;True;Studio e lavoro allo stesso tempo
+20260722_050644;2026-07-22T05:10:06;26;İl più;İngilizce;İngilizcesi;The most;İl più;True;1;True;Questo esercizio e il più difficile
+20260722_050644;2026-07-22T05:10:11;27;Notte;Türkçe;Türkçesi;Gece;notte;True;1;True;Di notte dormo circa otto ore
+20260722_050644;2026-07-22T05:10:16;28;Sono di;İngilizce;İngilizcesi;I am from;di sono;False;1;False;Sono di Lüleburgaz ma vivo a edirne
+20260722_050644;2026-07-22T05:10:23;29;Tornare;Türkçe;Türkçesi;Dönmek / geri gelmek;tornare;True;1;True;Torno a casa dopo il lavoro
+20260722_050644;2026-07-22T05:10:27;30;Bere;Türkçe;Türkçesi;İçmek;bere;True;1;True;Bevo molta acqua durante il giorno
+20260722_050644;2026-07-22T05:10:30;31;Mattina;Türkçe;Türkçesi;Sabah;mattina;True;1;True;Ogni mattina bevo un caffe
+20260722_050644;2026-07-22T05:10:34;32;Sono di;İngilizce;İngilizcesi;I am from;sono di;True;2;False;Sono di Lüleburgaz ma vivo a edirne
+20260722_050644;2026-07-22T05:10:39;33;İl più;Türkçe;Türkçesi;En / En Çok;İl più;True;3;False;Questo esercizio e il più difficile
+20260722_050644;2026-07-22T05:10:42;34;Quando;Türkçe;Türkçesi;Ne zaman / -dığında;quando;True;1;True;Quando vuoi mangiare e dove
+20260722_050644;2026-07-22T05:10:47;35;Arrivare;Türkçe;Türkçesi;Varmak / Ulaşmak;arrivare;True;1;True;Arrivo alla stazione alle nove
+20260722_050644;2026-07-22T05:10:51;36;Mi dispiace;İngilizce;İngilizcesi;I’m sorry;mi dispiace;True;1;True;Mi dispiace, oggi non posso venire
+20260722_050644;2026-07-22T05:10:54;37;Solo;Türkçe;Türkçesi;Sadece / Yalnız;solo;True;1;True;Oggi sono solo a casa
+20260722_050644;2026-07-22T05:10:59;38;Generalmente;Türkçe;Türkçesi;Genellikle;generalmente;True;1;True;Generalmente studio italiano la sera
+20260722_050644;2026-07-22T05:11:03;39;Sono di;Türkçe;Türkçesi;….liyim / … denim;sono di;True;1;True;Sono di Lüleburgaz ma vivo a edirne
+20260722_050644;2026-07-22T05:11:08;40;Mi piace;İngilizce;İngilizcesi;I like;mi piace;True;2;False;Mi piace fare fotografie quando viaggiare
+20260722_050644;2026-07-22T05:11:11;41;Quando;İngilizce;İngilizcesi;When;quando;True;1;True;Quando vuoi mangiare e dove
+20260722_050644;2026-07-22T05:11:15;42;Lavorare;Türkçe;Türkçesi;Çalışmak;lavorare;True;2;False;Vorrei lavorare nel settore dei dati
+20260722_050644;2026-07-22T05:11:23;43;Perche;Türkçe;Türkçesi;Neden / Çünkü;perche;True;1;True;Studio italiano perche andare in Italia
+20260722_050644;2026-07-22T05:11:27;44;Perche;İngilizce;İngilizcesi;Why / Because;perche;True;1;True;Studio italiano perche andare in Italia
+20260722_050644;2026-07-22T05:11:31;45;Cosi cosi;İngilizce;İngilizcesi;So-so;cosi cosi;True;1;True;Come stai? Cosi cosi
+20260722_050644;2026-07-22T05:11:34;46;Arrivare;İngilizce;İngilizcesi;Arrive;arrivare;True;1;True;Arrivo alla stazione alle nove
+20260722_050644;2026-07-22T05:11:38;47;Mano;İngilizce;İngilizcesi;Hand;mano;True;2;False;Con la chitarra in mano
+20260722_050644;2026-07-22T05:11:40;48;Bere;İngilizce;İngilizcesi;To drink;bere;True;1;True;Bevo molta acqua durante il giorno

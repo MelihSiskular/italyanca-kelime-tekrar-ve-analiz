@@ -1,0 +1,38 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260728_104649;2026-07-28T10:46:52;1;essere;Essere;İngilizce;İngilizcesi;To be;essere;True;correct;1.0;;1;True;Sono uno studente
+20260728_104649;2026-07-28T10:46:58;2;prima;Prima;Türkçe;Türkçesi;Önce/Daha önce;prima;True;correct;1.0;;1;True;Prima di dormire, studio italiano
+20260728_104649;2026-07-28T10:47:01;3;adesso;Adesso;Türkçe;Türkçesi;Şimdi;adesso;True;correct;1.0;;1;True;Adesso non posso parlare
+20260728_104649;2026-07-28T10:47:04;4;ieri;Ieri;Türkçe;Türkçesi;Dün;ieri;True;correct;1.0;;1;True;Ieri e stata una bella giornata
+20260728_104649;2026-07-28T10:47:07;5;domani;Domani;Türkçe;Türkçesi;Yarın;domani;True;correct;1.0;;1;True;Ti passo a prendere domani alle 19.00
+20260728_104649;2026-07-28T10:47:11;6;adesso;Adesso;İngilizce;İngilizcesi;Now;adesso;True;correct;1.0;;1;True;Adesso non posso parlare
+20260728_104649;2026-07-28T10:47:16;7;essere;Essere;Türkçe;Türkçesi;Olmak;essere;True;correct;1.0;;1;True;Sono uno studente
+20260728_104649;2026-07-28T10:47:23;8;a domani;A Domani;İngilizce;İngilizcesi;See you tomorrow;A Domani;True;correct;1.0;;1;True;E stato bello vederti. A domani!
+20260728_104649;2026-07-28T10:47:31;9;settimana;Settimana;İngilizce;İngilizcesi;Week;settimana;True;correct;1.0;;1;True;Questa settimana studio italiano ogni girono
+20260728_104649;2026-07-28T10:47:36;10;a domani;A Domani;Türkçe;Türkçesi;Yarın Görüşürüz;A Domani;True;correct;1.0;;1;True;E stato bello vederti. A domani!
+20260728_104649;2026-07-28T10:47:40;11;tempo;Tempo;Türkçe;Türkçesi;Zaman;tempo;True;correct;1.0;;1;True;Non ho molto tempo per studiare oggi
+20260728_104649;2026-07-28T10:47:43;12;domani;Domani;İngilizce;İngilizcesi;Tomorrow;domani;True;correct;1.0;;1;True;Ti passo a prendere domani alle 19.00
+20260728_104649;2026-07-28T10:47:46;13;mese;Mese;Türkçe;Türkçesi;Ay;mese;True;correct;1.0;;1;True;Questo mese studio molto italiano
+20260728_104649;2026-07-28T10:47:49;14;iniziare;Iniziare;Türkçe;Türkçesi;Başlamak;iniziare;True;correct;1.0;;1;True;Voglio iniziare a studiare italiano oggi
+20260728_104649;2026-07-28T10:47:57;15;settimana;Settimana;Türkçe;Türkçesi;Hafta;settimana;True;correct;1.0;;1;True;Questa settimana studio italiano ogni girono
+20260728_104649;2026-07-28T10:48:00;16;mese;Mese;İngilizce;İngilizcesi;Month;mese;True;correct;1.0;;1;True;Questo mese studio molto italiano
+20260728_104649;2026-07-28T10:48:03;17;ieri;Ieri;İngilizce;İngilizcesi;Yesterday;ieri;True;correct;1.0;;1;True;Ieri e stata una bella giornata
+20260728_104649;2026-07-28T10:48:06;18;iniziare;Iniziare;İngilizce;İngilizcesi;To start/to begin;iniziare;True;correct;1.0;;1;True;Voglio iniziare a studiare italiano oggi
+20260728_104649;2026-07-28T10:48:12;19;tempo;Tempo;İngilizce;İngilizcesi;Time;tempo;True;correct;1.0;;1;True;Non ho molto tempo per studiare oggi
+20260728_104649;2026-07-28T10:48:20;20;due anni fa;Due anni fa;Türkçe;Türkçesi;İki yıl önce;due anni fa;True;correct;1.0;;1;True;Ho iniziato a studiare italiano due anni fa
+20260728_104649;2026-07-28T10:48:24;21;fine settimana;Fine Settimana;Türkçe;Türkçesi;Hafta sonu;fine settimana;True;correct;1.0;;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260728_104649;2026-07-28T10:48:29;22;due anni fa;Due anni fa;İngilizce;İngilizcesi;Two years ago;due anni fa;True;correct;1.0;;1;True;Ho iniziato a studiare italiano due anni fa
+20260728_104649;2026-07-28T10:48:32;23;dopo;Dopo;İngilizce;İngilizcesi;After/Later;dopo;True;correct;1.0;;1;True;Dopo il lavoro, torno a casa
+20260728_104649;2026-07-28T10:48:35;24;anno;Anno;Türkçe;Türkçesi;Yıl;anno;True;correct;1.0;;1;True;Quest’anno voglio andare in Italia
+20260728_104649;2026-07-28T10:48:38;25;dopo;Dopo;Türkçe;Türkçesi;Sonra;dopo;True;correct;1.0;;1;True;Dopo il lavoro, torno a casa
+20260728_104649;2026-07-28T10:48:47;26;tra/fra due anni;Tra/Fra due anni;Türkçe;Türkçesi;İki yıl sonra;Tra/Fra due anni;True;correct;1.0;;1;True;Tra due anni voglio vivere in Italia
+20260728_104649;2026-07-28T10:48:58;27;giorno;Giorno;İngilizce;İngilizcesi;Day;giorno;True;correct;1.0;;1;True;Studio italiano ogni giorno
+20260728_104649;2026-07-28T10:49:02;28;ciao;Ciao;Türkçe;Türkçesi;Merhaba;ciao;True;correct;1.0;;1;True;Ciao, fai buon viaggio
+20260728_104649;2026-07-28T10:49:08;29;oggi;Oggi;İngilizce;İngilizcesi;Today;oggi;True;correct;1.0;;1;True;Lo faro entro oggi
+20260728_104649;2026-07-28T10:49:11;30;ciao;Ciao;İngilizce;İngilizcesi;Hi;ciao;True;correct;1.0;;1;True;Ciao, fai buon viaggio
+20260728_104649;2026-07-28T10:49:24;31;giorno;Giorno;Türkçe;Türkçesi;Gün;giorno;True;correct;1.0;;1;True;Studio italiano ogni giorno
+20260728_104649;2026-07-28T10:49:28;32;oggi;Oggi;Türkçe;Türkçesi;Bugün;oggi;True;correct;1.0;;1;True;Lo faro entro oggi
+20260728_104649;2026-07-28T10:49:32;33;fine settimana;Fine Settimana;İngilizce;İngilizcesi;Weekend;fine settimana;True;correct;1.0;;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260728_104649;2026-07-28T10:49:49;34;tra/fra due anni;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Fra/Tra due anni;False;spelling_error;0.875;;1;False;Tra due anni voglio vivere in Italia
+20260728_104649;2026-07-28T10:50:08;35;prima;Prima;İngilizce;İngilizcesi;Before/Earlier;prima;True;correct;1.0;;1;True;Prima di dormire, studio italiano
+20260728_104649;2026-07-28T10:50:12;36;anno;Anno;İngilizce;İngilizcesi;Year;anno;True;correct;1.0;;1;True;Quest’anno voglio andare in Italia
+20260728_104649;2026-07-28T10:50:19;37;tra/fra due anni;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Tra/Fra due anni;True;correct;1.0;;2;False;Tra due anni voglio vivere in Italia

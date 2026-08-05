@@ -1,0 +1,118 @@
+﻿session_id;answered_at;attempt_order;italian_word;clue_language;clue_column;clue;user_answer;is_correct;task_attempt_number;is_first_try_correct;example
+20260722_023818;2026-07-22T02:38:29;1;Fare;Türkçe;Türkçesi;Yapmak;fare;True;1;True;Nel tempo libero faccio fotografie
+20260722_023818;2026-07-22T02:38:34;2;Volere;Türkçe;Türkçesi;İstemek;volere;True;1;True;Voglio imparare l’italiano
+20260722_023818;2026-07-22T02:38:39;3;Difficile;İngilizce;İngilizcesi;Difficult/Hard;difficile;True;1;True;Parlare italiano non e difficile
+20260722_023818;2026-07-22T02:38:41;4;Ieri;Türkçe;Türkçesi;Dün;ieri;True;1;True;Ieri e stata una bella giornata
+20260722_023818;2026-07-22T02:38:45;5;Andare;İngilizce;İngilizcesi;To go;andare;True;1;True;Voglio andare in Italia
+20260722_023818;2026-07-22T02:38:54;6;Fine Settimana;İngilizce;İngilizcesi;Weekend;fine settimana;True;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260722_023818;2026-07-22T02:38:58;7;Vivere;İngilizce;İngilizcesi;To live;vivere;True;1;True;Suo fratello adesso vive a Londra
+20260722_023818;2026-07-22T02:39:02;8;Dopo;İngilizce;İngilizcesi;After/Later;dopo;True;1;True;Dopo il lavoro, torno a casa
+20260722_023818;2026-07-22T02:39:15;9;Tra/Fra due anni;Türkçe;Türkçesi;İki yıl sonra;Tra/Fra due anni;True;1;True;Tra due anni voglio vivere in Italia
+20260722_023818;2026-07-22T02:39:21;10;Portare;İngilizce;İngilizcesi;To bring / To carry / To take;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260722_023818;2026-07-22T02:39:24;11;Strada;İngilizce;İngilizcesi;Road / Street / Way;strada;True;1;True;Questa strada porta alla stazione
+20260722_023818;2026-07-22T02:39:28;12;Iniziare;İngilizce;İngilizcesi;To start/to begin;iniziare;True;1;True;Voglio iniziare a studiare italiano oggi
+20260722_023818;2026-07-22T02:39:32;13;Senza;Türkçe;Türkçesi;-Sız/ -siz;senza;True;1;True;Non posso vivere senza la mia famiglia
+20260722_023818;2026-07-22T02:39:35;14;Essere;İngilizce;İngilizcesi;To be;essere;True;1;True;Sono uno studente
+20260722_023818;2026-07-22T02:39:40;15;Altro;İngilizce;İngilizcesi;Other / Another / More;altro;True;1;True;Vorrei un altro caffe, per favore
+20260722_023818;2026-07-22T02:39:43;16;Vorrei;Türkçe;Türkçesi;İsterdim / istiyorum;vorrei;True;1;True;Vorrei un biglietto per roma
+20260722_023818;2026-07-22T02:39:46;17;Corso;Türkçe;Türkçesi;Kurs / Ders;corso;True;1;True;Sto seguendo un corso di italiano online
+20260722_023818;2026-07-22T02:39:50;18;Cortese;Türkçe;Türkçesi;Kibar/Nazik;cortese;True;1;True;Il cameriere e molto cortese
+20260722_023818;2026-07-22T02:39:53;19;Avere;Türkçe;Türkçesi;Sahip olmak;avere;True;1;True;Ho una macchina fotografica
+20260722_023818;2026-07-22T02:40:00;20;Ricevere;Türkçe;Türkçesi;Almak/ Teslim almak;ricevere;True;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260722_023818;2026-07-22T02:40:04;21;Trovare;İngilizce;İngilizcesi;To find;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260722_023818;2026-07-22T02:40:12;22;Bisogno;Türkçe;Türkçesi;İhtiyaç;bisogno;True;1;True;Ho bisogno di più tempo per studiare
+20260722_023818;2026-07-22T02:40:15;23;Anno;Türkçe;Türkçesi;Yıl;anno;True;1;True;Quest’anno voglio andare in Italia
+20260722_023818;2026-07-22T02:40:19;24;Adesso;İngilizce;İngilizcesi;Now;adesso;True;1;True;Adesso non posso parlare
+20260722_023818;2026-07-22T02:41:36;25;Tempo;İngilizce;İngilizcesi;Time;tempo;True;1;True;Non ho molto tempo per studiare oggi
+20260722_023818;2026-07-22T02:41:40;26;Andare;Türkçe;Türkçesi;Gitmek;andare;True;1;True;Voglio andare in Italia
+20260722_023818;2026-07-22T02:41:44;27;Trovare;Türkçe;Türkçesi;Bulmak;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260722_023818;2026-07-22T02:41:47;28;Felice;Türkçe;Türkçesi;Mutlu;felice;True;1;True;Sono felice quando viaggio con la mia ragazza
+20260722_023818;2026-07-22T02:41:50;29;Mese;Türkçe;Türkçesi;Ay;mese;True;1;True;Questo mese studio molto italiano
+20260722_023818;2026-07-22T02:41:53;30;Dopo;Türkçe;Türkçesi;Sonra;dopo;True;1;True;Dopo il lavoro, torno a casa
+20260722_023818;2026-07-22T02:41:57;31;Vivere;Türkçe;Türkçesi;Yaşamak;vivere;True;1;True;Suo fratello adesso vive a Londra
+20260722_023818;2026-07-22T02:42:00;32;Vita;Türkçe;Türkçesi;Hayat;vita;True;1;True;Ha avuto una vita difficile, tra Mattie e problemi familiari
+20260722_023818;2026-07-22T02:42:06;33;Portare;Türkçe;Türkçesi;Getirmek / Taşımak / Götürmek;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260722_023818;2026-07-22T02:42:10;34;Settimana;Türkçe;Türkçesi;Hafta;settimana;True;1;True;Questa settimana studio italiano ogni girono
+20260722_023818;2026-07-22T02:42:14;35;Iniziare;Türkçe;Türkçesi;Başlamak;iniziare;True;1;True;Voglio iniziare a studiare italiano oggi
+20260722_023818;2026-07-22T02:42:17;36;Sogno;İngilizce;İngilizcesi;Dream;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260722_023818;2026-07-22T02:42:21;37;Felice;İngilizce;İngilizcesi;Happy;felice;True;1;True;Sono felice quando viaggio con la mia ragazza
+20260722_023818;2026-07-22T02:42:25;38;Anno;İngilizce;İngilizcesi;Year;anno;True;1;True;Quest’anno voglio andare in Italia
+20260722_023818;2026-07-22T02:42:29;39;Parlare;Türkçe;Türkçesi;Konuşmak;parlare;True;1;True;Parlo italiano con i miei amici
+20260722_023818;2026-07-22T02:42:32;40;Azione;Türkçe;Türkçesi;Aksiyon;azione;True;1;True;Ti piacciono i film d’azione
+20260722_023818;2026-07-22T02:42:37;41;Diverso;İngilizce;İngilizcesi;Different/various;diverso;True;1;True;
+20260722_023818;2026-07-22T02:42:44;42;Sbagliato;İngilizce;İngilizcesi;Wrong/Incorrect;sbagliato;True;1;True;Ho scritto il numero sbagliato
+20260722_023818;2026-07-22T02:42:51;43;Dormire;Türkçe;Türkçesi;Uyumak;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260722_023818;2026-07-22T02:42:58;44;Prendere;İngilizce;İngilizcesi;To take/to get;prendere;True;1;True;Prendo l’autobus ogni mattina
+20260722_023818;2026-07-22T02:43:03;45;Settimana;İngilizce;İngilizcesi;Week;settimana;True;1;True;Questa settimana studio italiano ogni girono
+20260722_023818;2026-07-22T02:43:09;46;A Domani;Türkçe;Türkçesi;Yarın Görüşürüz;A Domani;True;1;True;E stato bello vederti. A domani!
+20260722_023818;2026-07-22T02:43:14;47;Cortese;İngilizce;İngilizcesi;Polite/ Courteous;cortese;True;1;True;Il cameriere e molto cortese
+20260722_023818;2026-07-22T02:43:26;48;Potere;Türkçe;Türkçesi;Yapabilmek;potare;False;1;False;Posso parlare un podi italiano
+20260722_023818;2026-07-22T02:43:31;49;Corso;İngilizce;İngilizcesi;Course / Class;corso;True;1;True;Sto seguendo un corso di italiano online
+20260722_023818;2026-07-22T02:43:37;50;Potere;Türkçe;Türkçesi;Yapabilmek;potere;True;2;False;Posso parlare un podi italiano
+20260722_023818;2026-07-22T02:43:43;51;Dovere;Türkçe;Türkçesi;Zorunda olmak;dovere;True;1;True;Devo studiare oggi
+20260722_023818;2026-07-22T02:43:46;52;Avere;İngilizce;İngilizcesi;To have;avere;True;1;True;Ho una macchina fotografica
+20260722_023818;2026-07-22T02:44:01;53;Indicare;İngilizce;İngilizcesi;To indicate / To point out;indicare;True;1;True;Puoi indicarmi la strada per la stazione
+20260722_023818;2026-07-22T02:44:06;54;Vorrei;İngilizce;İngilizcesi;I’d like;vorrei;True;1;True;Vorrei un biglietto per roma
+20260722_023818;2026-07-22T02:44:58;55;Pensare;İngilizce;İngilizcesi;To think;pensare;True;1;True;Penso spesso al mio futuro
+20260722_023818;2026-07-22T02:45:02;56;Ricevere;İngilizce;İngilizcesi;To recieve;ricevere;True;1;True;Ho ricevuto un messaggio dalla mia ragazza
+20260722_023818;2026-07-22T02:45:07;57;Presente;Türkçe;Türkçesi;Mevcut / Şimdiki / Hazır bulunan;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260722_023818;2026-07-22T02:45:17;58;Tra/Fra due anni;İngilizce;İngilizcesi;In two years;Tra/Fra due anni;True;1;True;Tra due anni voglio vivere in Italia
+20260722_023818;2026-07-22T02:45:20;59;Durante;İngilizce;İngilizcesi;During;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260722_023818;2026-07-22T02:45:25;60;Fine Settimana;Türkçe;Türkçesi;Hafta sonu;fine settimana;True;1;True;Questo fine settimana voglio viaggiare con la mia ragazza
+20260722_023818;2026-07-22T02:45:28;61;Adesso;Türkçe;Türkçesi;Şimdi;adesso;True;1;True;Adesso non posso parlare
+20260722_023818;2026-07-22T02:45:31;62;Parlare;İngilizce;İngilizcesi;To speak;parlare;True;1;True;Parlo italiano con i miei amici
+20260722_023818;2026-07-22T02:45:33;63;Ieri;İngilizce;İngilizcesi;Yesterday;ieri;True;1;True;Ieri e stata una bella giornata
+20260722_023818;2026-07-22T02:45:38;64;Rendere;Türkçe;Türkçesi;Hale getirmek;cambiare;False;1;False;Voglio rendere felice la mia ragazza
+20260722_023818;2026-07-22T02:45:45;65;Mese;İngilizce;İngilizcesi;Month;mese;True;1;True;Questo mese studio molto italiano
+20260722_023818;2026-07-22T02:45:49;66;Altro;Türkçe;Türkçesi;Başka / Diğer / Bir tane daha;altro;True;1;True;Vorrei un altro caffe, per favore
+20260722_023818;2026-07-22T02:45:57;67;Cambiare;İngilizce;İngilizcesi;To change;cambiare;True;1;True;Voglio cambiare la mia vita
+20260722_023818;2026-07-22T02:46:06;68;Mezzo di trasporto;Türkçe;Türkçesi;Ulaşım Aracı;mezzo di trasporto;True;1;True;Il treno e’ il mio mezzo di trasporto preferito
+20260722_023818;2026-07-22T02:46:12;69;Due anni fa;Türkçe;Türkçesi;İki yıl önce;due anni fa;True;1;True;Ho iniziato a studiare italiano due anni fa
+20260722_023818;2026-07-22T02:46:15;70;Giorno;Türkçe;Türkçesi;Gün;giorno;True;1;True;Studio italiano ogni giorno
+20260722_023818;2026-07-22T02:46:21;71;Oggi;İngilizce;İngilizcesi;Today;giorni;False;1;False;Lo faro entro oggi
+20260722_023818;2026-07-22T02:46:27;72;Volere;İngilizce;İngilizcesi;To want;volere;True;1;True;Voglio imparare l’italiano
+20260722_023818;2026-07-22T02:46:30;73;Ciao;Türkçe;Türkçesi;Merhaba;ciao;True;1;True;
+20260722_023818;2026-07-22T02:46:34;74;Due anni fa;İngilizce;İngilizcesi;Two years ago;due anni fa;True;1;True;Ho iniziato a studiare italiano due anni fa
+20260722_023818;2026-07-22T02:46:37;75;Domani;Türkçe;Türkçesi;Yarın;domani;True;1;True;Ti passo a prendere domani alle 19.00
+20260722_023818;2026-07-22T02:46:40;76;Vita;İngilizce;İngilizcesi;Life;vita;True;1;True;Ha avuto una vita difficile, tra Mattie e problemi familiari
+20260722_023818;2026-07-22T02:46:44;77;Sbagliato;Türkçe;Türkçesi;Yanlış / Hatalı;sbagliato;True;1;True;Ho scritto il numero sbagliato
+20260722_023818;2026-07-22T02:46:47;78;Dovere;İngilizce;İngilizcesi;Must/ to have to;dovere;True;1;True;Devo studiare oggi
+20260722_023818;2026-07-22T02:46:50;79;Oggi;İngilizce;İngilizcesi;Today;oggi;True;2;False;Lo faro entro oggi
+20260722_023818;2026-07-22T02:46:53;80;Facile;İngilizce;İngilizcesi;Easy;facile;True;1;True;Questo esercizio e’ facile
+20260722_023818;2026-07-22T02:46:57;81;Strada;Türkçe;Türkçesi;Yol / Cadde / Sokak;strada;True;1;True;Questa strada porta alla stazione
+20260722_023818;2026-07-22T02:47:01;82;Potere;İngilizce;İngilizcesi;Can/ to be able to;potere;True;1;True;Posso parlare un podi italiano
+20260722_023818;2026-07-22T02:47:05;83;Azione;İngilizce;İngilizcesi;Action;azione;True;1;True;Ti piacciono i film d’azione
+20260722_023818;2026-07-22T02:47:08;84;Tempo;Türkçe;Türkçesi;Zaman;tempo;True;1;True;Non ho molto tempo per studiare oggi
+20260722_023818;2026-07-22T02:47:14;85;A Domani;İngilizce;İngilizcesi;See you tomorrow;A Domani;True;1;True;E stato bello vederti. A domani!
+20260722_023818;2026-07-22T02:47:17;86;Ciao;İngilizce;İngilizcesi;hi;ciao;True;1;True;
+20260722_023818;2026-07-22T02:47:28;87;Domani;İngilizce;İngilizcesi;Tomorrow;domani;True;1;True;Ti passo a prendere domani alle 19.00
+20260722_023818;2026-07-22T02:47:34;88;Giorno;İngilizce;İngilizcesi;Day;giorno;True;1;True;Studio italiano ogni giorno
+20260722_023818;2026-07-22T02:47:40;89;Difficile;Türkçe;Türkçesi;Zor;difficile;True;1;True;Parlare italiano non e difficile
+20260722_023818;2026-07-22T02:47:44;90;Cambiare;Türkçe;Türkçesi;Değiştirmek / Değişmek;cambiare;True;1;True;Voglio cambiare la mia vita
+20260722_023818;2026-07-22T02:47:48;91;Assenza;Türkçe;Türkçesi;Yokluk / Bulunmama;assenza;True;1;True;Durante la mia assenza, nessuno ha chiamato
+20260722_023818;2026-07-22T02:47:52;92;Benvenuto;İngilizce;İngilizcesi;Welcome;benvenuto;True;1;True;Benvenuto a casa nostra
+20260722_023818;2026-07-22T02:47:56;93;Prima;Türkçe;Türkçesi;Önce/Daha önce;prima;True;1;True;Prima di dormire, studio italiano
+20260722_023818;2026-07-22T02:48:01;94;Dormire;İngilizce;İngilizcesi;To sleep;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260722_023818;2026-07-22T02:48:04;95;Senza;İngilizce;İngilizcesi;Without;senza;True;1;True;Non posso vivere senza la mia famiglia
+20260722_023818;2026-07-22T02:48:07;96;Prendere;Türkçe;Türkçesi;Almak/Binmek;prendere;True;1;True;Prendo l’autobus ogni mattina
+20260722_023818;2026-07-22T02:48:10;97;Sapere;Türkçe;Türkçesi;Bilmek;sapere;True;1;True;Non so parlare bene italiano
+20260722_023818;2026-07-22T02:48:14;98;Facile;Türkçe;Türkçesi;Kolay;facile;True;1;True;Questo esercizio e’ facile
+20260722_023818;2026-07-22T02:48:17;99;Presente;İngilizce;İngilizcesi;Present / Current;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260722_023818;2026-07-22T02:48:19;100;Prima;İngilizce;İngilizcesi;Before/Earlier;prima;True;1;True;Prima di dormire, studio italiano
+20260722_023818;2026-07-22T02:48:24;101;Sogno;Türkçe;Türkçesi;Hayal;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260722_023818;2026-07-22T02:48:27;102;Oggi;Türkçe;Türkçesi;Bugün;oggi;True;1;True;Lo faro entro oggi
+20260722_023818;2026-07-22T02:48:30;103;Sapere;İngilizce;İngilizcesi;To know;sapere;True;1;True;Non so parlare bene italiano
+20260722_023818;2026-07-22T02:48:34;104;Qualcosa;Türkçe;Türkçesi;Bir şey;qualcosa;True;1;True;Vorrei mangiare qualcosa
+20260722_023818;2026-07-22T02:48:37;105;Rendere;İngilizce;İngilizcesi;To make/To render;rendere;True;1;True;Voglio rendere felice la mia ragazza
+20260722_023818;2026-07-22T02:48:42;106;Assenza;İngilizce;İngilizcesi;Absence;assenza;True;1;True;Durante la mia assenza, nessuno ha chiamato
+20260722_023818;2026-07-22T02:48:50;107;Essere;Türkçe;Türkçesi;Olmak;essere;True;1;True;Sono uno studente
+20260722_023818;2026-07-22T02:48:55;108;Durante;Türkçe;Türkçesi;Sırasında / Boyunca;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260722_023818;2026-07-22T02:49:00;109;Pensare;Türkçe;Türkçesi;Düşünmek;pensare;True;1;True;Penso spesso al mio futuro
+20260722_023818;2026-07-22T02:49:10;110;Diverso;Türkçe;Türkçesi;Farklı/Çeşitli;diverso;True;1;True;
+20260722_023818;2026-07-22T02:49:14;111;Indicare;Türkçe;Türkçesi;Göstermek / Belirtmek;indicare;True;1;True;Puoi indicarmi la strada per la stazione
+20260722_023818;2026-07-22T02:49:18;112;Benvenuto;Türkçe;Türkçesi;Hoş geldin;benvenuto;True;1;True;Benvenuto a casa nostra
+20260722_023818;2026-07-22T02:49:23;113;Rendere;Türkçe;Türkçesi;Hale getirmek;rendere;True;2;False;Voglio rendere felice la mia ragazza
+20260722_023818;2026-07-22T02:49:26;114;Qualcosa;İngilizce;İngilizcesi;Something;qualcosa;True;1;True;Vorrei mangiare qualcosa
+20260722_023818;2026-07-22T02:49:32;115;Mezzo di trasporto;İngilizce;İngilizcesi;Transportation;mezzo di trasporto;True;1;True;Il treno e’ il mio mezzo di trasporto preferito
+20260722_023818;2026-07-22T02:49:36;116;Fare;İngilizce;İngilizcesi;To do/ to make;fare;True;1;True;Nel tempo libero faccio fotografie
+20260722_023818;2026-07-22T02:49:40;117;Bisogno;İngilizce;İngilizcesi;Need;bisogno;True;1;True;Ho bisogno di più tempo per studiare

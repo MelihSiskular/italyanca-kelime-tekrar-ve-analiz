@@ -1,0 +1,6 @@
+﻿session_id;answered_at;attempt_order;italian_word;clue_language;clue_column;clue;user_answer;is_correct;task_attempt_number;is_first_try_correct;example
+20260720_140226;2026-07-20T14:03:10;1;Ciao;İngilizce;İngilizcesi;hi;ciao;True;1;True;
+20260720_140226;2026-07-20T14:03:21;2;Fare;İngilizce;İngilizcesi;To do/ to make;fare;True;1;True;Nel tempo libero faccio fotografie
+20260720_140226;2026-07-20T14:03:30;3;A Domani;Türkçe;Türkçesi;Yarın Görüşürüz;a domani;True;1;True;E stato bello vederti. A domani!
+20260720_140226;2026-07-20T14:03:48;4;Mezzo di trasporto;Türkçe;Türkçesi;Ulaşım Aracı;di mezzo traporta;False;1;False;Il treno e’ il mio mezzo di trasporto preferito
+20260720_140226;2026-07-20T14:04:03;5;Iniziare;Türkçe;Türkçesi;Başlamak;iniziare;True;1;True;Voglio iniziare a studiare italiano oggi

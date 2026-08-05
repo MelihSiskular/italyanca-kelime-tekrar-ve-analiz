@@ -1,0 +1,8 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260722_055234;2026-07-22T05:52:38;1;bere;Bere;Türkçe;Türkçesi;İçmek;bere;True;correct;1.0;;1;True;Bevo molta acqua durante il giorno
+20260722_055234;2026-07-22T05:52:42;2;mi dispiace;Mi dispiace;Türkçe;Türkçesi;Üzgünüm;mi dispiace;True;correct;1.0;;1;True;Mi dispiace, oggi non posso venire
+20260722_055234;2026-07-22T05:52:46;3;mi dispiace;Mi dispiace;İngilizce;İngilizcesi;I’m sorry;mi piace;False;spelling_error;0.842;;1;False;Mi dispiace, oggi non posso venire
+20260722_055234;2026-07-22T05:52:50;4;tornare;Tornare;İngilizce;İngilizcesi;To return / to come back;tornare;True;correct;1.0;;1;True;Torno a casa dopo il lavoro
+20260722_055234;2026-07-22T05:52:54;5;mi dispiace;Mi dispiace;İngilizce;İngilizcesi;I’m sorry;mi dispiace;True;correct;1.0;;2;False;Mi dispiace, oggi non posso venire
+20260722_055234;2026-07-22T05:52:57;6;tornare;Tornare;Türkçe;Türkçesi;Dönmek / geri gelmek;tornare;True;correct;1.0;;1;True;Torno a casa dopo il lavoro
+20260722_055234;2026-07-22T05:53:00;7;bere;Bere;İngilizce;İngilizcesi;To drink;bere;True;correct;1.0;;1;True;Bevo molta acqua durante il giorno

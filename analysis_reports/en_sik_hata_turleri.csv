@@ -1,0 +1,6 @@
+﻿error_type;error_type_tr;error_count;percentage_of_errors;unique_words;sessions
+spelling_error;Yazım hatası;53;58.24;26;17
+unknown_or_semantic_error;Bilinmeyen veya anlamsal hata;18;19.78;16;12
+no_recall;Hatırlayamama / boş cevap;14;15.38;14;7
+confused_with_another_word;Başka kelimeyle karıştırma;5;5.49;5;5
+wrong_word_form;Yanlış/çekimli kelime biçimi;1;1.1;1;1

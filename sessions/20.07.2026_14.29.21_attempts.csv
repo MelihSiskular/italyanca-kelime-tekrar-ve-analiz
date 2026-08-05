@@ -1,0 +1,23 @@
+﻿session_id;answered_at;attempt_order;italian_word;clue_language;clue_column;clue;user_answer;is_correct;task_attempt_number;is_first_try_correct;example
+20260720_142921;2026-07-20T14:29:32;1;Sogno;İngilizce;İngilizcesi;Dream;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260720_142921;2026-07-20T14:29:37;2;Dormire;Türkçe;Türkçesi;Uyumak;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260720_142921;2026-07-20T14:29:42;3;Durante;Türkçe;Türkçesi;Sırasında / Boyunca;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260720_142921;2026-07-20T14:30:05;4;Trovare;İngilizce;İngilizcesi;To find;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260720_142921;2026-07-20T14:30:12;5;Pensare;Türkçe;Türkçesi;Düşünmek;pensare;True;1;True;Penso spesso al mio futuro
+20260720_142921;2026-07-20T14:30:17;6;Portare;İngilizce;İngilizcesi;To bring / To carry / To take;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260720_142921;2026-07-20T14:30:25;7;Trovare;Türkçe;Türkçesi;Bulmak;trovare;True;1;True;Non riesco a trovare le mie chiavi
+20260720_142921;2026-07-20T14:30:29;8;Bisogno;İngilizce;İngilizcesi;Need;bisogno;True;1;True;Ho bisogno di più tempo per studiare
+20260720_142921;2026-07-20T14:30:32;9;Corso;İngilizce;İngilizcesi;Course / Class;corso;True;1;True;Sto seguendo un corso di italiano online
+20260720_142921;2026-07-20T14:30:36;10;Portare;Türkçe;Türkçesi;Getirmek / Taşımak / Götürmek;portare;True;1;True;Porto sempre la macchina fotografica con me
+20260720_142921;2026-07-20T14:30:39;11;Strada;Türkçe;Türkçesi;Yol / Cadde / Sokak;strada;True;1;True;Questa strada porta alla stazione
+20260720_142921;2026-07-20T14:30:42;12;Sogno;Türkçe;Türkçesi;Hayal;sogno;True;1;True;Il mio sogno e vivere in Italia
+20260720_142921;2026-07-20T14:30:47;13;Bisogno;Türkçe;Türkçesi;İhtiyaç;bisogno;True;1;True;Ho bisogno di più tempo per studiare
+20260720_142921;2026-07-20T14:30:51;14;Pensare;İngilizce;İngilizcesi;To think;pensare;True;1;True;Penso spesso al mio futuro
+20260720_142921;2026-07-20T14:30:55;15;Presente;İngilizce;İngilizcesi;Present / Current;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260720_142921;2026-07-20T14:30:58;16;Altro;İngilizce;İngilizcesi;Other / Another / More;altro;True;1;True;Vorrei un altro caffe, per favore
+20260720_142921;2026-07-20T14:31:01;17;Strada;İngilizce;İngilizcesi;Road / Street / Way;strada;True;1;True;Questa strada porta alla stazione
+20260720_142921;2026-07-20T14:31:04;18;Dormire;İngilizce;İngilizcesi;To sleep;dormire;True;1;True;Di solito dormo otto ore ogni note
+20260720_142921;2026-07-20T14:31:07;19;Durante;İngilizce;İngilizcesi;During;durante;True;1;True;Durante il viaggio ho fatto molte fotografie
+20260720_142921;2026-07-20T14:31:12;20;Presente;Türkçe;Türkçesi;Mevcut / Şimdiki / Hazır bulunan;presente;True;1;True;Oggi tutti gli studenti sono presenti
+20260720_142921;2026-07-20T14:31:15;21;Corso;Türkçe;Türkçesi;Kurs / Ders;corso;True;1;True;Sto seguendo un corso di italiano online
+20260720_142921;2026-07-20T14:31:18;22;Altro;Türkçe;Türkçesi;Başka / Diğer / Bir tane daha;altro;True;1;True;Vorrei un altro caffe, per favore

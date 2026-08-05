@@ -1,0 +1,39 @@
+﻿session_id;answered_at;attempt_order;word_key;italian_word;clue_language;clue_column;clue;user_answer;is_correct;error_type;similarity_score;confused_with;task_attempt_number;is_first_try_correct;example
+20260727_170723;2026-07-27T17:07:27;1;bere;Bere;Türkçe;Türkçesi;İçmek;bere;True;correct;1.0;;1;True;Bevo molta acqua durante il giorno
+20260727_170723;2026-07-27T17:07:31;2;mi piace;Mi piace;Türkçe;Türkçesi;Hoşuma gidiyor / seviyorum;mi piace;True;correct;1.0;;1;True;Mi piace fare fotografie quando viaggiare
+20260727_170723;2026-07-27T17:07:35;3;chiedere;Chiedere;Türkçe;Türkçesi;Sormak / Rica etmek;chiedere;True;correct;1.0;;1;True;Vorrei chiedere un’informazione
+20260727_170723;2026-07-27T17:07:38;4;sono di;Sono di;İngilizce;İngilizcesi;I am from;sono di;True;correct;1.0;;1;True;Sono di Lüleburgaz ma vivo a edirne
+20260727_170723;2026-07-27T17:07:42;5;lavorare;Lavorare;İngilizce;İngilizcesi;To work;lavorare;True;correct;1.0;;1;True;Vorrei lavorare nel settore dei dati
+20260727_170723;2026-07-27T17:07:45;6;mattina;Mattina;İngilizce;İngilizcesi;Morning;mattina;True;correct;1.0;;1;True;Ogni mattina bevo un caffe
+20260727_170723;2026-07-27T17:07:48;7;arrivare;Arrivare;Türkçe;Türkçesi;Varmak / Ulaşmak;arrivare;True;correct;1.0;;1;True;Arrivo alla stazione alle nove
+20260727_170723;2026-07-27T17:07:53;8;generalmente;Generalmente;Türkçe;Türkçesi;Genellikle;generalmente;True;correct;1.0;;1;True;Generalmente studio italiano la sera
+20260727_170723;2026-07-27T17:07:56;9;mano;Mano;Türkçe;Türkçesi;El;mano;True;correct;1.0;;1;True;Con la chitarra in mano
+20260727_170723;2026-07-27T17:08:00;10;lavorare;Lavorare;Türkçe;Türkçesi;Çalışmak;lavorare;True;correct;1.0;;1;True;Vorrei lavorare nel settore dei dati
+20260727_170723;2026-07-27T17:08:05;11;allo stesso tempo;Allo stesso tempo;İngilizce;İngilizcesi;At the same time;allo stesso tempo;True;correct;1.0;;1;True;Studio e lavoro allo stesso tempo
+20260727_170723;2026-07-27T17:08:09;12;arrivare;Arrivare;İngilizce;İngilizcesi;Arrive;arrivare;True;correct;1.0;;1;True;Arrivo alla stazione alle nove
+20260727_170723;2026-07-27T17:08:13;13;tornare;Tornare;İngilizce;İngilizcesi;To return / to come back;tornare;True;correct;1.0;;1;True;Torno a casa dopo il lavoro
+20260727_170723;2026-07-27T17:08:17;14;soldi;Soldi;İngilizce;İngilizcesi;Money;soldi;True;correct;1.0;;1;True;Non ho abbastanza soldi per viaggiare
+20260727_170723;2026-07-27T17:08:20;15;solo;Solo;İngilizce;İngilizcesi;Only / Alone;solo;True;correct;1.0;;1;True;Oggi sono solo a casa
+20260727_170723;2026-07-27T17:08:51;16;allo stesso tempo;Allo stesso tempo;Türkçe;Türkçesi;Aynı zamanda;allo stesso tempo;True;correct;1.0;;1;True;Studio e lavoro allo stesso tempo
+20260727_170723;2026-07-27T17:08:54;17;mano;Mano;İngilizce;İngilizcesi;Hand;mano;True;correct;1.0;;1;True;Con la chitarra in mano
+20260727_170723;2026-07-27T17:08:58;18;notte;Notte;İngilizce;İngilizcesi;Night;notte;True;correct;1.0;;1;True;Di notte dormo circa otto ore
+20260727_170723;2026-07-27T17:09:04;19;tornare;Tornare;Türkçe;Türkçesi;Dönmek / geri gelmek;tornare;True;correct;1.0;;1;True;Torno a casa dopo il lavoro
+20260727_170723;2026-07-27T17:09:08;20;quando;Quando;İngilizce;İngilizcesi;When;quando;True;correct;1.0;;1;True;Quando vuoi mangiare e dove
+20260727_170723;2026-07-27T17:09:25;21;i̇l piu;İl piu;Türkçe;Türkçesi;En / En Çok;İl piu;True;correct;1.0;;1;True;Questo esercizio e il più difficile
+20260727_170723;2026-07-27T17:09:31;22;sono di;Sono di;Türkçe;Türkçesi;….liyim / … denim;sono di;True;correct;1.0;;1;True;Sono di Lüleburgaz ma vivo a edirne
+20260727_170723;2026-07-27T17:09:34;23;cosi cosi;Cosi cosi;İngilizce;İngilizcesi;So-so;cosi cosi;True;correct;1.0;;1;True;Come stai? Cosi cosi
+20260727_170723;2026-07-27T17:09:39;24;mi dispiace;Mi dispiace;İngilizce;İngilizcesi;I’m sorry;mi dispiace;True;correct;1.0;;1;True;Mi dispiace, oggi non posso venire
+20260727_170723;2026-07-27T17:09:43;25;mi piace;Mi piace;İngilizce;İngilizcesi;I like;mi piace;True;correct;1.0;;1;True;Mi piace fare fotografie quando viaggiare
+20260727_170723;2026-07-27T17:09:47;26;perche;Perche;İngilizce;İngilizcesi;Why / Because;perche;True;correct;1.0;;1;True;Studio italiano perche andare in Italia
+20260727_170723;2026-07-27T17:09:51;27;cosi cosi;Cosi cosi;Türkçe;Türkçesi;Şöyle böyle / Eh işte;cosi cosi;True;correct;1.0;;1;True;Come stai? Cosi cosi
+20260727_170723;2026-07-27T17:09:55;28;mi dispiace;Mi dispiace;Türkçe;Türkçesi;Üzgünüm;mi dispiace;True;correct;1.0;;1;True;Mi dispiace, oggi non posso venire
+20260727_170723;2026-07-27T17:10:00;29;quando;Quando;Türkçe;Türkçesi;Ne zaman / -dığında;quando;True;correct;1.0;;1;True;Quando vuoi mangiare e dove
+20260727_170723;2026-07-27T17:10:03;30;solo;Solo;Türkçe;Türkçesi;Sadece / Yalnız;solo;True;correct;1.0;;1;True;Oggi sono solo a casa
+20260727_170723;2026-07-27T17:10:07;31;chiedere;Chiedere;İngilizce;İngilizcesi;To ask / To request;chiedere;True;correct;1.0;;1;True;Vorrei chiedere un’informazione
+20260727_170723;2026-07-27T17:10:17;32;perche;Perche;Türkçe;Türkçesi;Neden / Çünkü;perche;True;correct;1.0;;1;True;Studio italiano perche andare in Italia
+20260727_170723;2026-07-27T17:10:22;33;generalmente;Generalmente;İngilizce;İngilizcesi;Generally / usually;generalmente;True;correct;1.0;;1;True;Generalmente studio italiano la sera
+20260727_170723;2026-07-27T17:10:29;34;soldi;Soldi;Türkçe;Türkçesi;Para;soldi;True;correct;1.0;;1;True;Non ho abbastanza soldi per viaggiare
+20260727_170723;2026-07-27T17:10:36;35;mattina;Mattina;Türkçe;Türkçesi;Sabah;mattina;True;correct;1.0;;1;True;Ogni mattina bevo un caffe
+20260727_170723;2026-07-27T17:10:40;36;bere;Bere;İngilizce;İngilizcesi;To drink;bere;True;correct;1.0;;1;True;Bevo molta acqua durante il giorno
+20260727_170723;2026-07-27T17:10:44;37;notte;Notte;Türkçe;Türkçesi;Gece;notte;True;correct;1.0;;1;True;Di notte dormo circa otto ore
+20260727_170723;2026-07-27T17:10:49;38;i̇l piu;İl piu;İngilizce;İngilizcesi;The most;İl piu;True;correct;1.0;;1;True;Questo esercizio e il più difficile
