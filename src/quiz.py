@@ -6,13 +6,12 @@ from pathlib import Path
 import pandas as pd
 
 # Elimdeki csv dosyamın path yolu
-CSV_PATH = Path(".../Italian_xlsx_quiz/data/Italyanca_Kelimeler.csv")
-
 PROJECT_DIR = Path(
-    "/"
+    "/Users/melihsiskular/PycharmProjects/Italian_xlsx_quiz"
 )
 
-# Tüm kayıtları ve hataları tutmak için
+CSV_PATH = PROJECT_DIR / "data" / "Italyanca_Kelimeler.csv"
+
 SESSIONS_DIR = PROJECT_DIR / "sessions"
 FAILED_DIR = PROJECT_DIR / "failed"
 
@@ -25,8 +24,8 @@ EXAMPLE_COLUMN = "İtalyanca Cümle -1"
 
 # CSV dosya aralığımda satır başlangıç ve son
 # Tüm kelimeler dahil edilmek istenirse None yaz
-START_ROW = None
-END_ROW = None
+START_ROW = 291
+END_ROW = 301
 
 
 

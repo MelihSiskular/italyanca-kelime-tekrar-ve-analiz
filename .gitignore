@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # Virtual environments
 venv/
@@ -34,9 +35,21 @@ Thumbs.db
 # Environment variables and secrets
 .env
 .env.*
-!.env.example
 
 # Logs and temporary files
 *.log
 *.tmp
 *.swp
+
+# Local vocabulary study data
+sessions/
+failed/
+analysis_reports/
+
+# Local working files
+*.numbers
+
+# Environment variables and secrets
+.env
+.env.*
+!env.example

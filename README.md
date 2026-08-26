@@ -126,6 +126,10 @@ analysis_reports/
 └── tarihsel_gelisim.png
 ```
 
+`analysis_reports/` klasörü analiz sistemi çalıştırıldığında lokal olarak oluşturulur. Bu klasördeki kişisel çalışma verileri ve üretilen raporlar Git tarafından takip edilmez.
+
+---
+
 ### `analiz_raporu.md` neden önemli?
 
 Bu dosya ham CSV tablolarını tek başına bırakmak yerine, öğrenme sürecini okunabilir bir Markdown raporuna dönüştürür.
@@ -142,6 +146,8 @@ Raporda şu başlıklar yer alır:
 
 Bu sayede analiz sonuçları doğrudan GitHub üzerinden de okunabilir.
 
+---
+
 ### Zorluk puanı
 
 Her kelime için 0–100 arasında bir zorluk puanı hesaplanır. Puan şu unsurları birlikte değerlendirir:
@@ -155,6 +161,44 @@ Her kelime için 0–100 arasında bir zorluk puanı hesaplanır. Puan şu unsur
 
 Puan yükseldikçe kelimenin sonraki çalışmalarda daha yüksek öncelik alması gerekir.
 
+---
+
+## Supabase kelime senkronizasyonu
+
+CSV dosyası kelime çalışmalarım için ana veri kaynağı olmaya devam eder.
+
+Yeni kelimeler `data/Italyanca_Kelimeler.csv` dosyasına eklendikten sonra:
+
+```bash
+python sync_words.py
+```
+
+komutuyla kelime listesi Supabase üzerindeki `words` tablosuyla senkronize edilir.
+
+Senkronizasyon scripti:
+
+- CSV ve veritabanındaki kelime sayılarını karşılaştırır.
+- Yalnızca CSV'ye sonradan eklenen yeni kelimeleri gönderir.
+- `sequence_no` sırasını korur.
+- Mevcut kayıtların sırasının değiştirilmesini kontrol eder.
+- Veritabanı zaten güncelse herhangi bir kayıt eklemez.
+- Aynı senkronizasyonun tekrar çalıştırılması duplicate kelime oluşturmaz.
+
+Örneğin CSV ve veritabanı zaten aynı durumdaysa:
+
+```text
+🇮🇹 Italian Vocabulary Sync
+──────────────────────────────────────────
+
+CSV words       : 347
+Database words  : 347
+New words       : 0
+
+✅ Database is already up to date.
+```
+
+Bu yapı sayesinde kelime çalışma rutinimi değiştirmeden CSV dosyasını kullanmaya devam ederken, aynı kelime verilerini diğer uygulamalarda kullanmak üzere veritabanında da güncel tutabiliyorum.
+
 
 ## Planlanan geliştirmeler
 
@@ -164,8 +208,34 @@ Puan yükseldikçe kelimenin sonraki çalışmalarda daha yüksek öncelik almas
 - Telaffuz desteği
 - Daha kapsamlı İtalyanca fiil çekimi analizi
 
+---
+
+## Kullanım
+
+### Quiz
+
+```bash
+python src/quiz.py
+```
+
+### Analiz
+
+```bash
+python src/italian_quiz_analyzer.py
+```
+
+### Yeni kelimeleri Supabase'e gönderme
+
+CSV dosyasına yeni kelimeleri ekledikten sonra:
+
+```bash
+python sync_words.py
+```
+
+---
 ## Not
 
-Bu proje kişisel İtalyanca öğrenme sürecimden doğmuştur. Paylaşılan kelime veri seti ve analiz sonuçları, sistemin gerçek kullanımını göstermek amacıyla repoda tutuyorum. Kendi listenizle kullanmak için aynı sütun yapısına sahip yeni bir CSV dosyası oluşturmanız yeterlidir.
+Bu proje kişisel İtalyanca öğrenme sürecimden doğmuştur. Kelime veri setimi kendi çalışma yöntemime göre oluşturmaya devam ediyorum. Projeyi kendi listenizle kullanmak için aynı sütun yapısına sahip bir CSV dosyası oluşturmanız yeterlidir.
+
 
 - *Melih Şişkular*

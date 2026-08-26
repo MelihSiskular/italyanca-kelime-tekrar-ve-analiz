@@ -1,3 +1,0 @@
-﻿İtalyanca Kelime;İngilizcesi;Türkçesi;İtalyanca Anlamı;İtalyanca Cümle -1;Cümle -1 Anlam;İtalyanca Cümle -2;Cümle -2 Anlam
-A Domani;See you tomorrow;Yarın Görüşürüz;Saluto usato quando ci si rivede il giorno dopo;E stato bello vederti. A domani!;It was nice to see you, see you tomorrow;;
-Azione;Action;Aksiyon;La capacita umana volta a modificare il reale a fini economici, politici, etici;;;;

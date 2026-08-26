@@ -1,2 +1,0 @@
-﻿session_id;started_at;ended_at;duration_seconds;duration_minutes;duration_display;exit_reason;total_unique_words;total_language_tasks;completed_language_tasks;remaining_language_tasks;mastered_unique_words;total_attempts;correct_answers;wrong_answers;first_try_correct_tasks;accuracy_percent
-20260727_171124;2026-07-27T17:11:24;2026-07-27T17:15:46;261;4.35;4 dk 21 sn;all_tasks_completed;21;42;42;0;21;42;42;0;42;100.0

@@ -1650,7 +1650,7 @@ def parse_arguments() -> argparse.Namespace:
     parser.add_argument(
         "--project-dir",
         type=Path,
-        default=Path(__file__).resolve().parent,
+        default=Path(__file__).resolve().parent.parent,
         help=(
             "sessions ve failed klasörlerinin bulunduğu proje "
             "klasörü. Varsayılan: betiğin bulunduğu klasör."
