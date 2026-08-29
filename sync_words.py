@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Append-only CSV -> Supabase vocabulary sync.
+Safe CSV -> Supabase vocabulary sync.
 
-Usage: 
+Usage:
     python sync_words.py
 
 Expected CSV:
@@ -13,10 +13,13 @@ Required .env values:
     SUPABASE_SERVICE_ROLE_KEY=YOUR_SERVICE_ROLE_OR_SECRET_KEY
 
 Important:
-- Existing rows are never updated or deleted.
 - CSV row order defines sequence_no.
+- Existing sequence_no + Italian word identity is protected.
+- New rows are inserted.
+- Existing rows can be safely enriched/updated from CSV.
+- Empty optional CSV fields NEVER erase existing Supabase values.
 - If an existing sequence_no points to a different Italian word, sync aborts.
-- Empty optional fields are sent as NULL; Supabase computes is_ready automatically.
+- Supabase computes is_ready automatically.
 """
 
 from __future__ import annotations
@@ -51,6 +54,12 @@ CSV_TO_DB = {
     "Cümle -2 Anlam": "example_2_meaning",
 }
 
+MUTABLE_DB_FIELDS = [
+    db_column
+    for db_column in CSV_TO_DB.values()
+    if db_column != "italian"
+]
+
 
 def load_simple_env(path: Path) -> None:
     """Load a small .env file without requiring python-dotenv."""
@@ -81,11 +90,11 @@ def normalize_word(value: str) -> str:
     return " ".join(value.strip().casefold().split())
 
 
-def optional_text(value: str | None) -> str | None:
+def optional_text(value: Any) -> str | None:
     if value is None:
         return None
 
-    cleaned = value.strip()
+    cleaned = str(value).strip()
     return cleaned if cleaned else None
 
 
@@ -230,10 +239,18 @@ class SupabaseREST:
         all_rows: list[dict[str, Any]] = []
         offset = 0
 
+        select_fields = ",".join(
+            [
+                "sequence_no",
+                "italian",
+                *MUTABLE_DB_FIELDS,
+            ]
+        )
+
         while True:
             params = urlencode(
                 {
-                    "select": "sequence_no,italian",
+                    "select": select_fields,
                     "order": "sequence_no.asc",
                     "limit": FETCH_PAGE_SIZE,
                     "offset": offset,
@@ -274,11 +291,43 @@ class SupabaseREST:
                 },
             )
 
+    def update_words(
+        self,
+        rows: list[dict[str, Any]],
+    ) -> None:
+        for row in rows:
+            sequence_no = int(row["sequence_no"])
+            changes = row["changes"]
+
+            params = urlencode(
+                {
+                    "sequence_no": f"eq.{sequence_no}",
+                }
+            )
+
+            self._request(
+                "PATCH",
+                f"{self.table_url}?{params}",
+                body=changes,
+                extra_headers={
+                    "Prefer": "return=minimal",
+                },
+            )
+
 
 def validate_against_database(
     csv_rows: list[dict[str, Any]],
     db_rows: list[dict[str, Any]],
-) -> list[dict[str, Any]]:
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    """
+    Validate row identity and calculate inserts + safe updates.
+
+    Safe update rules:
+    - sequence_no is never changed.
+    - italian is treated as identity and is never updated here.
+    - a non-empty CSV value may insert/replace the corresponding DB value.
+    - an empty CSV value never deletes an existing DB value.
+    """
     csv_by_sequence = {
         int(row["sequence_no"]): row
         for row in csv_rows
@@ -343,7 +392,6 @@ def validate_against_database(
         if int(row["sequence_no"]) not in existing_sequences
     ]
 
-    # Extra protection against DB's case-insensitive Italian unique index.
     existing_italian = {
         normalize_word(str(row.get("italian", "")))
         for row in db_rows
@@ -365,15 +413,101 @@ def validate_against_database(
             "Sync durduruldu."
         )
 
-    return new_rows
+    updated_rows: list[dict[str, Any]] = []
+
+    for sequence_no, db_row in db_by_sequence.items():
+        csv_row = csv_by_sequence[sequence_no]
+        changes: dict[str, Any] = {}
+
+        for field in MUTABLE_DB_FIELDS:
+            csv_value = optional_text(csv_row.get(field))
+
+            # CSV hücresi boşsa Supabase'deki mevcut değeri silme.
+            if csv_value is None:
+                continue
+
+            db_value = optional_text(db_row.get(field))
+
+            if csv_value != db_value:
+                changes[field] = csv_value
+
+        if changes:
+            updated_rows.append(
+                {
+                    "sequence_no": sequence_no,
+                    "italian": csv_row["italian"],
+                    "changes": changes,
+                }
+            )
+
+    return new_rows, updated_rows
 
 
 def is_ready_source(row: dict[str, Any]) -> bool:
     return bool(
-        optional_text(str(row.get("italian") or ""))
-        and optional_text(str(row.get("english") or ""))
-        and optional_text(str(row.get("turkish") or ""))
+        optional_text(row.get("italian"))
+        and optional_text(row.get("english"))
+        and optional_text(row.get("turkish"))
     )
+
+
+def verify_sync(
+    *,
+    client: SupabaseREST,
+    new_rows: list[dict[str, Any]],
+    updated_rows: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Re-fetch DB and verify every requested insert/update."""
+    db_after = client.fetch_existing_words()
+    db_after_by_sequence = {
+        int(row["sequence_no"]): row
+        for row in db_after
+    }
+
+    missing_after = [
+        int(row["sequence_no"])
+        for row in new_rows
+        if int(row["sequence_no"]) not in db_after_by_sequence
+    ]
+
+    if missing_after:
+        raise RuntimeError(
+            "Insert tamamlandı ancak doğrulamada bazı sequence_no "
+            f"değerleri bulunamadı: {missing_after}"
+        )
+
+    update_failures: list[str] = []
+
+    for row in updated_rows:
+        sequence_no = int(row["sequence_no"])
+        db_row = db_after_by_sequence.get(sequence_no)
+
+        if db_row is None:
+            update_failures.append(
+                f"{sequence_no}: güncelleme sonrası satır bulunamadı"
+            )
+            continue
+
+        for field, expected in row["changes"].items():
+            actual = optional_text(db_row.get(field))
+            expected_text = optional_text(expected)
+
+            if actual != expected_text:
+                update_failures.append(
+                    f"{sequence_no}.{field}: "
+                    f"beklenen={expected_text!r}, bulunan={actual!r}"
+                )
+
+    if update_failures:
+        preview = "\n".join(
+            f"  - {item}" for item in update_failures[:10]
+        )
+        raise RuntimeError(
+            "Update tamamlandı ancak doğrulamada uyuşmazlık bulundu:\n"
+            f"{preview}"
+        )
+
+    return db_after
 
 
 def main() -> int:
@@ -407,7 +541,7 @@ def main() -> int:
 
         db_rows = client.fetch_existing_words()
 
-        new_rows = validate_against_database(
+        new_rows, updated_rows = validate_against_database(
             csv_rows,
             db_rows,
         )
@@ -420,49 +554,64 @@ def main() -> int:
         print(f"CSV words       : {len(csv_rows)}")
         print(f"Database words  : {len(db_rows)}")
         print(f"New words       : {len(new_rows)}")
+        print(f"Updated words   : {len(updated_rows)}")
 
-        if not new_rows:
+        if not new_rows and not updated_rows:
             print("\n✅ Database is already up to date.")
             return 0
 
-        print("\nYeni kelimeler:")
-        for row in new_rows:
-            readiness = "ready" if is_ready_source(row) else "incomplete"
+        if new_rows:
+            print("\nYeni kelimeler:")
+            for row in new_rows:
+                readiness = (
+                    "ready"
+                    if is_ready_source(row)
+                    else "incomplete"
+                )
+                print(
+                    f"  {row['sequence_no']:>4}. "
+                    f"{row['italian']}  [{readiness}]"
+                )
+
             print(
-                f"  {row['sequence_no']:>4}. "
-                f"{row['italian']}  [{readiness}]"
+                f"\nReady           : {ready_new}\n"
+                f"Incomplete      : {incomplete_new}"
             )
 
-        print(
-            f"\nReady           : {ready_new}\n"
-            f"Incomplete      : {incomplete_new}"
+        if updated_rows:
+            print("\nGüncellenecek kelimeler:")
+            for row in updated_rows:
+                changed_fields = ", ".join(row["changes"].keys())
+                print(
+                    f"  {row['sequence_no']:>4}. "
+                    f"{row['italian']}"
+                )
+                print(f"        {changed_fields}")
+
+        if updated_rows:
+            client.update_words(updated_rows)
+
+        if new_rows:
+            client.insert_words(new_rows)
+
+        db_after = verify_sync(
+            client=client,
+            new_rows=new_rows,
+            updated_rows=updated_rows,
         )
-
-        client.insert_words(new_rows)
-
-        # Verify after insert.
-        db_after = client.fetch_existing_words()
-        db_sequences_after = {
-            int(row["sequence_no"])
-            for row in db_after
-        }
-
-        missing_after = [
-            int(row["sequence_no"])
-            for row in new_rows
-            if int(row["sequence_no"]) not in db_sequences_after
-        ]
-
-        if missing_after:
-            raise RuntimeError(
-                "Insert tamamlandı ancak doğrulamada bazı sequence_no "
-                f"değerleri bulunamadı: {missing_after}"
-            )
 
         print("\n" + "─" * 42)
-        print(
-            f"✅ {len(new_rows)} new word(s) uploaded."
-        )
+
+        if new_rows:
+            print(
+                f"✅ {len(new_rows)} new word(s) uploaded."
+            )
+
+        if updated_rows:
+            print(
+                f"✅ {len(updated_rows)} existing word(s) updated."
+            )
+
         print(
             f"✅ Database now contains {len(db_after)} word(s)."
         )
