@@ -82,7 +82,7 @@ Corpo;Body;Vücut / Beden;L’insieme delle parti fisiche che formano una person
 Aspetto ;Appearance / Aspect;Görünüş / Özellik;Il modo in cui una persona o una cosa appare,  oppure una particolare caratteristica di una situazione;L’aspetto più importante e’ parlare senza paura;The most important aspect is speaking without fear;;
 Sempre ;Always;Her zaman;In ogni momento o in tutte le occasioni;A colazione bevo sempre il caffe;In breakfast I always drink coffee;;
 Spesso;Often;Sıklıkla;Molte volte o con grande frequenza;Vado spesso in piscina;I often go to swimming pool;;
-Di solito;Usually;Genlelde;Nella maggior parte delle situazioni o delle occasioni;Di solito ceno verso le 19.30;I usually have dinner around 7.30 pm;;
+Di solito;Usually;Genelde;Nella maggior parte delle situazioni o delle occasioni;Di solito ceno verso le 19.30;I usually have dinner around 7.30 pm;;
 A volte;Sometimes;Bazen;In alcune occasioni, ma non sempre;A volte viaggio con la mia ragazza nel fine settimana;Sometimes I travel with my girlfriend at the weekend;;
 Mai;Never / Ever;Asla / Hiç;"In nessun momento; nelle domande puo significare “in qualche momento”";Non bevo mai il caffe di notte;I never drink coffee at night;;
 Colazione;Breakfast;Kahvaltı;Il primo pasto della giornata, consumato generalmente al mattino;Faccio colazione ogni mattina alle otto;I have breakfast every morning at eight;;
@@ -326,10 +326,10 @@ Parlero;I will speak;Konuşacağım;Forma futura del verbo “parlare”, usata 
 Dormiro;I will sleep;Uyuyacağım;Forma futura del verbo “dormire”, usata per parlare del dormire in un momento futuro;Stasera dormirò presto perche sono stanco;Tonight I will sleep early because Im tired;;
 Leggero;I will read;Okuyacağım;Forma futuro del verbo “leggere”, usata per dire che si leggera qualcosa in futuro;Domani leggero questo libro in italiano;"Tomorrow I will read this book in Italian
 ";;
-Ragazzo ;;;;;;;
-Che ;;;;Il libro che ho letto e’ bellissimo;The book that I read is wonderful;;
-Davvero;Really? / Truly / Indeed;;;;;;
-Che cosa;;;;;;;
+Ragazzo ;Boy / Guy / Boyfriend;Erkek çocuk / Genç adam / Erkek arkadaş;"Un giovane di sesso maschile; in alcuni contesti può anche indicare il fidanzato di una persona";Quel ragazzo parla italiano molto bene;That gut speaks italian very well;;
+Che ;That / Which / Who / What;Ki / -dığı / Hangi / Ne;Una parola molto comune usata per collegare frasi, introdurre informazioni o fare alcune domande;Il libro che ho letto e’ bellissimo;The book that I read is wonderful;;
+Davvero;Really? / Truly / Indeed;Gerçekten / Cidden;Avverbio usato per rafforzare cio che si dice o per esprimere sorpresa ;Mi piace davvero questa citta;I really like this city;;
+Che cosa;What;Ne / Ne şey;Espressione interrogativa usata per chiedere informazioni su qualcosa;Che cosa stai facendo in questo momento ;What are you doing right now;;
 Sono stato;;;;;;;
 Io ero;;;;;;;
 Vero;;;;;;;
@@ -378,3 +378,5 @@ Stasera ;;;;;;;
 Mentre ;;;;;;;
 Giusta ;;;;;;;
 Ci vediamo;;;;;;;
+Alcuni;;;;;;;
+Domande;;;;;;;
